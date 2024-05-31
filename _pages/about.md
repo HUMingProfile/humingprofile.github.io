@@ -16,17 +16,21 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# About Me
 
-I received my Bachelor's Degree in June 2017, and my Ph.D. Degree in June 2022 from East China Normal University, China (华东师范大学), under the supervision of Prof. Mingsong Chen (陈铭松). 
- <a href='https://scholar.google.com/citations?user=ZTTvNb0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
-
+I am a Research Scientist in group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) (<font size="3px">谢肖飞</font>), Singapore Management University, Singapore (2024.6-). Previously, I was a Research Fellow in group of Prof. [Liu Yang](https://personal.ntu.edu.sg/yangliu/) (<font size="3px">刘杨</font>) at Nanyang Technological University, Singapore (2022.09-2024.05).
+I received my Bachelor's Degree in June 2017, and my Ph.D. Degree in June 2022 from East China Normal University, China (<font size="3px">华东师范大学</font>), under the supervision of Prof. [Mingsong Chen](https://faculty.ecnu.edu.cn/_s43/cms/main.psp) (<font size="3px">陈铭松</font>). 
 My research interest mainly include：
-- Cyber Physical Systems (<font color="blue" size="4px">信息物理融合系统</font>)
-- Federated Learning  (<font color="blue" size="4px">联邦学习</font>)
-- Program Analysis and Testing (<font color="blue" size="4px">程序分析和测试</font>)
-- Trustworthy AI (<font color="blue" size="4px">可信人工智能</font>)
+- Cyber Physical Systems (<font color="blue" size="3px">信息物理融合系统</font>)
+- Federated Learning  (<font color="blue" size="3px">联邦学习</font>)
+- Program Analysis and Testing (<font color="blue" size="3px">程序分析和测试</font>)
+- Trustworthy AI (<font color="blue" size="3px">可信人工智能</font>)
+  I have published 20+ papers
+ <a href='https://scholar.google.com/citations?user=ZTTvNb0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> at top conferences and journals such as RTSS, DAC, KDD, ICDE, AAAI, ISSTA, FSE, TCAD, TC, ToN.
   
-<span class='anchor' id='-xl'></span>
+I am open to co-supervising doctoral students in the fields of Federated Learning, Trustworthy AI, and Software Engineering. If you are interested, please send your CV to my email (hu.ming.work@gmial.com)
+  
+<span class='anchor' id='-news'></span>
 
 # 🔥 News
 ### 2024:
@@ -49,19 +53,19 @@ My research interest mainly include：
 - *2023.03* 🎉 One paper got accepted by TCAD (<span style="color:red">CCF-A</span>)!
 
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-wx'></span>
 
 # 💻 Work Experience
-- *2024.6 - present* **Research Scientist** in the group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) (谢肖飞) at Singapore Management University, Singapore.
-- *2022.9 - 2024.5* **Research Fellow** in the group of Professor [Liu Yang](https://personal.ntu.edu.sg/yangliu/) (刘杨) at Nanyang Technological University, Singapore.
+- *2024.6 - present* **Research Scientist** in the group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) at Singapore Management University, Singapore.
+- *2022.9 - 2024.5* **Research Fellow** in the group of Professor [Liu Yang](https://personal.ntu.edu.sg/yangliu/) at Nanyang Technological University, Singapore.
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-edu'></span>
 
 # 🎓 Educations
-- *2017.09 - 2022.06*, **Ph.D** (Software Engineering) supervised by Prof. [Mingsong Chen](https://faculty.ecnu.edu.cn/_s43/cms/main.psp) (陈铭松) at East China Normal University, Shanghai, China.
+- *2017.09 - 2022.06*, **Ph.D** (Software Engineering) supervised by Prof. [Mingsong Chen](https://faculty.ecnu.edu.cn/_s43/cms/main.psp) at East China Normal University, Shanghai, China.
 - *2012.09 - 2016.06*, **B.E** (Software Engineering) at East China Normal University, Shanghai, China.
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-pub'></span>
 
 # 📝 Publications
 \* Corresponding Author
@@ -131,7 +135,7 @@ My research interest mainly include：
 
 - ``DAC 2019`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Tongquan Wei, Min Zhang, Frédéric Mallet, and Mingsong Chen, [Sample-Guided Automated Synthesis for CCSL Specifications](Sample-Guided Automated Synthesis for CCSL Specifications). In Proceedings of Design Automation Conference (DAC). 98: 1–6, 2019.
 
-<span class='anchor' id='-ryjx'></span>
+<span class='anchor' id='-awards'></span>
 
 # 🏅 Honors and Awards
 - *2022* Outstanding Graduates, Shanghai
@@ -139,7 +143,7 @@ My research interest mainly include：
 - *2021* Excellent Student of ECNU
 - *2018* Excellent Student Cadres of ECNU
 
-<span class='anchor' id='-xshy'></span>
+<span class='anchor' id='-proj'></span>
 
 # 🏛️ Reserch Projects
 - *2023-2024*, (<span style="color:red">Co-PI</span>) MoE International Joint Lab of Trustworthy Software Open Research Project, 13K RMB
