@@ -65,7 +65,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 # 🎓 Educations
 - *2017.09 - 2022.06*, **Ph.D** (Software Engineering) supervised by Prof. [Mingsong Chen](https://faculty.ecnu.edu.cn/_s43/cms/main.psp) at East China Normal University, Shanghai, China.
-- *2012.09 - 2016.06*, **B.E** (Software Engineering) at East China Normal University, Shanghai, China.
+- *2013.09 - 2017.06*, **B.E** (Software Engineering) at East China Normal University, Shanghai, China.
  
 <span class='anchor' id='-pub'></span>
 
