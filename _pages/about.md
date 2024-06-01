@@ -27,7 +27,7 @@ My research interest mainly include：
 - Trustworthy AI (<font color="blue" size="3px">可信人工智能</font>)
 
   I have published 20+ papers
- <a href='https://scholar.google.com/citations?user=ZTTvNb0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> at top conferences and journals such as RTSS, DAC, KDD, ICDE, AAAI, ISSTA, FSE, TCAD, TC, ToN.
+ <a href='https://scholar.google.com/citations?user=ZTTvNb0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a> at top conferences and journals such as RTSS, DAC, KDD, ICDE, AAAI, ISSTA, FSE, TCAD, TC, ToN.
   
 **I am open to co-supervising doctoral students in the fields of Federated Learning, Trustworthy AI, and Software Engineering.**
 If you are interested, please send your CV to my email (**hu.ming.work@gmail.com**)
