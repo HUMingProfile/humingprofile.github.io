@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am a **Research Scientist** in group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) (<font size="3px">谢肖飞</font>), **Singapore Management University**, Singapore (2024.6-). Previously, I was a Research Fellow in group of Prof. [Liu Yang](https://personal.ntu.edu.sg/yangliu/) (<font size="3px">刘杨</font>) at Nanyang Technological University, Singapore (2022.09-2024.05).
+I am a **Research Scientist** in group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) (<font size="3px">谢肖飞</font>), **Singapore Management University**, Singapore (2024.6-). Previously, I was a Research Fellow in group of Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (<font size="3px">刘杨</font>) at Nanyang Technological University, Singapore (2022.09-2024.05).
 I received my Bachelor's Degree in June 2017, and my Ph.D. Degree in June 2022 from East China Normal University, China (<font size="3px">华东师范大学</font>), under the supervision of Prof. [Mingsong Chen](https://faculty.ecnu.edu.cn/_s43/cms/main.psp) (<font size="3px">陈铭松</font>). 
 My research interest mainly include：
 - Cyber Physical Systems (<font color="blue" size="3px">信息物理融合系统</font>)
@@ -59,7 +59,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 # 💻 Work Experience
 - *2024.6 - present* **Research Scientist** in the group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) at Singapore Management University, Singapore.
-- *2022.9 - 2024.5* **Research Fellow** in the group of Professor [Liu Yang](https://personal.ntu.edu.sg/yangliu/) at Nanyang Technological University, Singapore.
+- *2022.9 - 2024.5* **Research Fellow** in the group of Professor [Yang Liu](https://personal.ntu.edu.sg/yangliu/) at Nanyang Technological University, Singapore.
 
 <span class='anchor' id='-edu'></span>
 
@@ -82,7 +82,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 - ``ISSTA 2024`` (<span style="color:red">CCF-A</span>) Maoyi Xie, **Ming Hu\***, Ziqiao Kong, Cen Zhang, Yebo Feng, Haijun Wang, Yue Xue, Hao Zhang, Ye Liu, and Yang Liu, [DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications](). In Proceedings of International Symposium on Software Testing and Analysis (ISSTA), Accepted, 2024.
 
-- ``DAC 2024`` (<span style="color:red">CCF-A</span>) Chentao Jia, **Ming Hu\***, Zekai Chen, Yanxin Yang, Xiaofei Xie, Yang Liu, and Mingsong Chen\*, [AdaptiveFL: Adaptive Heterogeneous Federated Learning for Resource-Constrained AIoT Systems](). In Proceedings of Design Automation Conference (DAC), 2024.
+- ``DAC 2024`` (<span style="color:red">CCF-A</span>) Chentao Jia, **Ming Hu\***, Zekai Chen, Yanxin Yang, Xiaofei Xie, Yang Liu, and Mingsong Chen\*, [AdaptiveFL: Adaptive Heterogeneous Federated Learning for Resource-Constrained AIoT Systems](https://arxiv.org/pdf/2311.13166). In Proceedings of Design Automation Conference (DAC), 2024.
 
 - ``ICDE 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, Yihao Huang, Anran Li, Yang Liu, Xiang Lian, and Mingsong Chen, [FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation](). In Proceedings of IEEE International Conference on Data Engineering (ICDE), 2137-2150, 2024.
 
