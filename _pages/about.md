@@ -36,7 +36,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 # 🔥 News
 ### 2024:
-
+- *2024.06* 🎉 One paper got accepted by TIFS (<span style="color:red">CCF-A</span>)!
 - *2024.05* 🎉 One paper got accepted by KDD 2024 (<span style="color:red">CCF-A</span>)!
 - *2024.05* 🎉 One paper got accepted by ToN (<span style="color:red">CCF-A</span>)!
 - *2024.04* 🎉 One paper got accepted by FSE 2024 (<span style="color:red">CCF-A</span>)!
@@ -73,6 +73,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 \* Corresponding Author
 ### 2024
 ---
+-    ``TIFS`` (<span style="color:red">CCF-A</span>) Yihao Huang, Qing Guo, Felix Juefei Xu, **Ming Hu**, Xiaojun Jia, Xiaochun Cao, Geguang Pu, and Yang Liu, [Texture Re-scalable Universal Adversarial Perturbation](). IEEE Transactions on Information Forensics & Security (TIFS), 2024.
 
 -	``KDD 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Zhihao Yue, Xiaofei Xie, Cheng Chen, Yihao Huang, Xian Wei, Xiang Lian, Yang Liu, and Mingsong Chen, [Is Aggregation the Only Choice? Federated Learning via Layer-wise Model Recombination](). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
