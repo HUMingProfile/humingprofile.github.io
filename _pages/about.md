@@ -36,6 +36,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 # 🔥 News
 ### 2024:
+- *2024.06* 🎉 Our paper “Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?” won <span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>! Congrats to <span style="color:blue">Kaixuan</span>!
 - *2024.06* 🎉 One paper got accepted by TIFS (<span style="color:red">CCF-A</span>)!
 - *2024.05* 🎉 One paper got accepted by KDD 2024 (<span style="color:red">CCF-A</span>)!
 - *2024.05* 🎉 One paper got accepted by ToN (<span style="color:red">CCF-A</span>)!
@@ -79,7 +80,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 -	``ToN`` (<span style="color:red">CCF-A</span>) Ziming Zhao, Zhaoxuan Li, Xiaofei Xie, Jiongchi Yu, Fan Zhang, Rui Zhang, Binbin Chen, Xiangyang Luo,**Ming Hu**, and Wenrui Ma, [FOSS: Towards Fine-Grained Unknown Class Detection against the Open-Set Attack Spectrum with Variable Legitimate Traffic](). IEEE/ACM Transactions on Networking (ToN), 2024.
 
-- ``FSE 2024`` (<span style="color:red">CCF-A</span>) Kaixuan Li, Yue Xue, Sen Chen, Han Liu, Kairan Sun, **Ming Hu**, Haijun Wang, Yang Liu, and Yixiang Chen, [Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?](). In Proceedings of ACM SIGSOFT Symposium on the Foundation of Software Engineering (FSE), 2024.
+- ``FSE 2024`` (<span style="color:red">CCF-A</span>) Kaixuan Li, Yue Xue, Sen Chen, Han Liu, Kairan Sun, **Ming Hu**, Haijun Wang, Yang Liu, and Yixiang Chen, [Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?](). In Proceedings of ACM SIGSOFT Symposium on the Foundation of Software Engineering (FSE), 2024. <span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>
 
 - ``ISSTA 2024`` (<span style="color:red">CCF-A</span>) Maoyi Xie, **Ming Hu\***, Ziqiao Kong, Cen Zhang, Yebo Feng, Haijun Wang, Yue Xue, Hao Zhang, Ye Liu, and Yang Liu, [DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications](). In Proceedings of International Symposium on Software Testing and Analysis (ISSTA), Accepted, 2024.
 
@@ -141,6 +142,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 <span class='anchor' id='-awards'></span>
 
 # 🏅 Honors and Awards
+- *2024* ACM SIGSOFT Distinguished Paper Award
 - *2022* Outstanding Graduates, Shanghai
 - *2021* National Scholarship
 - *2021* Excellent Student of ECNU
