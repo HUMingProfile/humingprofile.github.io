@@ -36,7 +36,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 # 🔥 News
 ### 2024:
-- *2024.06* 🎉 Our paper “Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?” won <span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>! Congrats to <span style="color:blue">Kaixuan</span>!
+- *2024.06* 🎉 Our paper “Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?” won FSE2024 <span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>! Congrats to <span style="color:blue">Kaixuan</span>!
 - *2024.06* 🎉 One paper got accepted by TIFS (<span style="color:red">CCF-A</span>)!
 - *2024.05* 🎉 One paper got accepted by KDD 2024 (<span style="color:red">CCF-A</span>)!
 - *2024.05* 🎉 One paper got accepted by ToN (<span style="color:red">CCF-A</span>)!
@@ -142,7 +142,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 <span class='anchor' id='-awards'></span>
 
 # 🏅 Honors and Awards
-- *2024* ACM SIGSOFT Distinguished Paper Award
+- *2024* ACM SIGSOFT Distinguished Paper Award, FSE2024
 - *2022* Outstanding Graduates, Shanghai
 - *2021* National Scholarship
 - *2021* Excellent Student of ECNU
