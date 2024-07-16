@@ -36,6 +36,8 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 # 🔥 News
 ### 2024:
+- *2024.07* 🎉 One paper got accepted by CODES+ISSS 2024 (Published in TCAD (<span style="color:red">CCF-A</span>))! Congrats to <span style="color:blue">Zekai</span>!
+- *2024.07* 🎉 One paper got accepted by EMSOFT 2024 (Published in TCAD (<span style="color:red">CCF-A</span>))! Congrats to <span style="color:blue">Zeke</span>!
 - *2024.06* 🎉 Our paper “Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?” won FSE2024 <span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>! Congrats to <span style="color:blue">Kaixuan</span>!
 - *2024.06* 🎉 One paper got accepted by TIFS (<span style="color:red">CCF-A</span>)!
 - *2024.05* 🎉 One paper got accepted by KDD 2024 (<span style="color:red">CCF-A</span>)!
@@ -74,9 +76,13 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 \* Corresponding Author
 ### 2024
 ---
--    ``TIFS`` (<span style="color:red">CCF-A</span>) Yihao Huang, Qing Guo, Felix Juefei Xu, **Ming Hu**, Xiaojun Jia, Xiaochun Cao, Geguang Pu, and Yang Liu, [Texture Re-scalable Universal Adversarial Perturbation](). IEEE Transactions on Information Forensics & Security (TIFS), 2024.
+-   ``TCAD`` (<span style="color:red">CCF-A</span>) Zekai Chen, Chentao Jia, **Ming Hu\***, Xiaofei Xie, Anran Li, and Mingsong Chen, [FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios](). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
 
--	``KDD 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Zhihao Yue, Xiaofei Xie, Cheng Chen, Yihao Huang, Xian Wei, Xiang Lian, Yang Liu, and Mingsong Chen, [Is Aggregation the Only Choice? Federated Learning via Layer-wise Model Recombination](). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
+-   ``TCAD`` (<span style="color:red">CCF-A</span>) Zeke Xia, **Ming Hu**, Dengke Yan, Xiaofei Xie, Tianlin Li, Anran Li, Junlong Zhou, and Mingsong Chen, [CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance](). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
+
+-   ``TIFS`` (<span style="color:red">CCF-A</span>) Yihao Huang, Qing Guo, Felix Juefei Xu, **Ming Hu**, Xiaojun Jia, Xiaochun Cao, Geguang Pu, and Yang Liu, [Texture Re-scalable Universal Adversarial Perturbation](). IEEE Transactions on Information Forensics & Security (TIFS), 2024.
+
+-	``KDD 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Zhihao Yue, Xiaofei Xie, Cheng Chen, Yihao Huang, Xian Wei, Xiang Lian, Yang Liu, and Mingsong Chen, [Is Aggregation the Only Choice? Federated Learning via Layer-wise Model Recombination](https://arxiv.org/pdf/2305.10730). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
 -	``ToN`` (<span style="color:red">CCF-A</span>) Ziming Zhao, Zhaoxuan Li, Xiaofei Xie, Jiongchi Yu, Fan Zhang, Rui Zhang, Binbin Chen, Xiangyang Luo,**Ming Hu**, and Wenrui Ma, [FOSS: Towards Fine-Grained Unknown Class Detection against the Open-Set Attack Spectrum with Variable Legitimate Traffic](). IEEE/ACM Transactions on Networking (ToN), 2024.
 
@@ -86,7 +92,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 - ``DAC 2024`` (<span style="color:red">CCF-A</span>) Chentao Jia, **Ming Hu\***, Zekai Chen, Yanxin Yang, Xiaofei Xie, Yang Liu, and Mingsong Chen\*, [AdaptiveFL: Adaptive Heterogeneous Federated Learning for Resource-Constrained AIoT Systems](https://arxiv.org/pdf/2311.13166). In Proceedings of Design Automation Conference (DAC), 2024.
 
-- ``ICDE 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, Yihao Huang, Anran Li, Yang Liu, Xiang Lian, and Mingsong Chen, [FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation](). In Proceedings of IEEE International Conference on Data Engineering (ICDE), 2137-2150, 2024.
+- ``ICDE 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, Yihao Huang, Anran Li, Yang Liu, Xiang Lian, and Mingsong Chen, [FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation](https://arxiv.org/pdf/2210.08285). In Proceedings of IEEE International Conference on Data Engineering (ICDE), 2137-2150, 2024.
 
 - ``IUI 2024`` (<span style="color:orange">CCF-B</span>) Liming Nie, and Kabir Sulaiman Said\*, **Ming Hu\***, [SoK: An Exhaustive Taxonomy of Display Issues for Mobile Applications](https://dl.acm.org/doi/10.1145/3640543.3645193). In Proceedings of ACM International Conference on Intelligent User Interfaces (IUI), 537-548, 2024.
 
@@ -151,6 +157,6 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 <span class='anchor' id='-proj'></span>
 
 # 🏛️ Reserch Projects
-- *2023-2024*, (<span style="color:red">Co-PI</span>) MoE International Joint Lab of Trustworthy Software Open Research Project, 13K RMB
-- *2020-2022*, (<span style="color:red">PI</span>) ECNU Academic Innovation Promotion Program for Excellent Doctoral Students, 50K RMB
+- *2023-2024*, (<span style="color:red">Co-PI</span>) Efficient and Trustworthy Federated Learning System Design, MoE International Joint Lab of Trustworthy Software Open Research Project, 13K RMB
+- *2020-2022*, (<span style="color:red">PI</span>) Design Automation for Cyber-Physical Systems, ECNU Academic Innovation Promotion Program for Excellent Doctoral Students, 50K RMB
 
