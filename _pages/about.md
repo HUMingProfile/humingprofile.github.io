@@ -36,6 +36,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 # 🔥 News
 ### 2024:
+- *2024.08* 🎉 One paper got accepted by TMC (<span style="color:red">CCF-A</span>)!
 - *2024.07* 🎉 One paper got accepted by CODES+ISSS 2024 (Published in TCAD (<span style="color:red">CCF-A</span>))! Congrats to <span style="color:blue">Zekai</span>!
 - *2024.07* 🎉 One paper got accepted by EMSOFT 2024 (Published in TCAD (<span style="color:red">CCF-A</span>))! Congrats to <span style="color:blue">Zeke</span>!
 - *2024.06* 🎉 Our paper “Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?” won FSE2024 <span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>! Congrats to <span style="color:blue">Kaixuan</span>!
@@ -76,19 +77,23 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 \* Corresponding Author
 ### 2024
 ---
+-   ``TMC`` (<span style="color:red">CCF-A</span>) Anran Li, Guangjing Wang, **Ming Hu**, Jianfei Sun, Lan Zhang, Anh Tuan Luu, and Han Yu, [Joint Client-and-Sample Selection for Federated Learning via Bi-level Optimization](). IEEE Transactions on Mobile Computing (TMC), 2024.
+
+-   ``SEKE 2024`` (<span style="color:green">CCF-C</span>) Jiawen Weng, Zeke Xia, Ran Li, **Ming Hu**, and Mingsong Chen, [FedQP: Towards Accurate Federated Learning using Quadratic Programming Guided Mutation](). International Conference on Software Engineering and Knowledge Engineering (SEKE), 2024.
+
 -   ``TCAD`` (<span style="color:red">CCF-A</span>) Zekai Chen, Chentao Jia, **Ming Hu\***, Xiaofei Xie, Anran Li, and Mingsong Chen, [FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios](). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
 
 -   ``TCAD`` (<span style="color:red">CCF-A</span>) Zeke Xia, **Ming Hu**, Dengke Yan, Xiaofei Xie, Tianlin Li, Anran Li, Junlong Zhou, and Mingsong Chen, [CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance](). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
 
 -   ``TIFS`` (<span style="color:red">CCF-A</span>) Yihao Huang, Qing Guo, Felix Juefei Xu, **Ming Hu**, Xiaojun Jia, Xiaochun Cao, Geguang Pu, and Yang Liu, [Texture Re-scalable Universal Adversarial Perturbation](). IEEE Transactions on Information Forensics & Security (TIFS), 2024.
 
--	``KDD 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Zhihao Yue, Xiaofei Xie, Cheng Chen, Yihao Huang, Xian Wei, Xiang Lian, Yang Liu, and Mingsong Chen, [Is Aggregation the Only Choice? Federated Learning via Layer-wise Model Recombination](https://arxiv.org/pdf/2305.10730). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
+-	``KDD 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Zhihao Yue, Xiaofei Xie, Cheng Chen, Yihao Huang, Xian Wei, Xiang Lian, Yang Liu, and Mingsong Chen, [Is Aggregation the Only Choice? Federated Learning via Layer-wise Model Recombination](https://dl.acm.org/doi/abs/10.1145/3637528.3671722). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 1096-1107, 2024.
 
 -	``ToN`` (<span style="color:red">CCF-A</span>) Ziming Zhao, Zhaoxuan Li, Xiaofei Xie, Jiongchi Yu, Fan Zhang, Rui Zhang, Binbin Chen, Xiangyang Luo,**Ming Hu**, and Wenrui Ma, [FOSS: Towards Fine-Grained Unknown Class Detection against the Open-Set Attack Spectrum with Variable Legitimate Traffic](). IEEE/ACM Transactions on Networking (ToN), 2024.
 
-- ``FSE 2024`` (<span style="color:red">CCF-A</span>) Kaixuan Li, Yue Xue, Sen Chen, Han Liu, Kairan Sun, **Ming Hu**, Haijun Wang, Yang Liu, and Yixiang Chen, [Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?](). In Proceedings of ACM SIGSOFT Symposium on the Foundation of Software Engineering (FSE), 2024. <span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>
+- ``FSE 2024`` (<span style="color:red">CCF-A</span>) Kaixuan Li, Yue Xue, Sen Chen, Han Liu, Kairan Sun, **Ming Hu**, Haijun Wang, Yang Liu, and Yixiang Chen, [Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?](https://dl.acm.org/doi/pdf/10.1145/3660772). In Proceedings of ACM SIGSOFT Symposium on the Foundation of Software Engineering (FSE), 1447-1470, 2024. <span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>
 
-- ``ISSTA 2024`` (<span style="color:red">CCF-A</span>) Maoyi Xie, **Ming Hu\***, Ziqiao Kong, Cen Zhang, Yebo Feng, Haijun Wang, Yue Xue, Hao Zhang, Ye Liu, and Yang Liu, [DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications](). In Proceedings of International Symposium on Software Testing and Analysis (ISSTA), Accepted, 2024.
+- ``ISSTA 2024`` (<span style="color:red">CCF-A</span>) Maoyi Xie, **Ming Hu\***, Ziqiao Kong, Cen Zhang, Yebo Feng, Haijun Wang, Yue Xue, Hao Zhang, Ye Liu, and Yang Liu, [DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications](https://dl.acm.org/doi/abs/10.1145/3650212.3652137). In Proceedings of International Symposium on Software Testing and Analysis (ISSTA), 402-414, 2024.
 
 - ``DAC 2024`` (<span style="color:red">CCF-A</span>) Chentao Jia, **Ming Hu\***, Zekai Chen, Yanxin Yang, Xiaofei Xie, Yang Liu, and Mingsong Chen\*, [AdaptiveFL: Adaptive Heterogeneous Federated Learning for Resource-Constrained AIoT Systems](https://arxiv.org/pdf/2311.13166). In Proceedings of Design Automation Conference (DAC), 2024.
 
@@ -148,6 +153,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 <span class='anchor' id='-awards'></span>
 
 # 🏅 Honors and Awards
+- *2024* Outstanding Doctoral Dissertation Award, CCF Embedded Systems Technical Committee
 - *2024* ACM SIGSOFT Distinguished Paper Award, FSE2024
 - *2022* Outstanding Graduates, Shanghai
 - *2021* National Scholarship
