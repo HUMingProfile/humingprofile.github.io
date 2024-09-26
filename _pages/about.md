@@ -36,6 +36,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 # 🔥 News
 ### 2024:
+- *2024.09* 🎉 One paper got accepted by NeurIPS 2024 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Yanxin</span>!
 - *2024.08* 🎉 One paper got accepted by TMC (<span style="color:red">CCF-A</span>)!
 - *2024.07* 🎉 One paper got accepted by CODES+ISSS 2024 (Published in TCAD (<span style="color:red">CCF-A</span>))! Congrats to <span style="color:blue">Zekai</span>!
 - *2024.07* 🎉 One paper got accepted by EMSOFT 2024 (Published in TCAD (<span style="color:red">CCF-A</span>))! Congrats to <span style="color:blue">Zeke</span>!
@@ -77,9 +78,11 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 \* Corresponding Author
 ### 2024
 ---
+-   ``NeurIPS 2024`` (<span style="color:red">CCF-A</span>) Yanxin Yang, Chentao Jia, Dengke Yan, **Ming Hu\***, Tianlin Li, Xiaofei Xie, Xian Wei, and Mingsong Chen\*, [SampDetox: Black-box Backdoor Defense via Perturbation-based Sample Detoxification](). In Proceedings of Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
+
 -   ``TMC`` (<span style="color:red">CCF-A</span>) Anran Li, Guangjing Wang, **Ming Hu**, Jianfei Sun, Lan Zhang, Anh Tuan Luu, and Han Yu, [Joint Client-and-Sample Selection for Federated Learning via Bi-level Optimization](). IEEE Transactions on Mobile Computing (TMC), 2024.
 
--   ``SEKE 2024`` (<span style="color:green">CCF-C</span>) Jiawen Weng, Zeke Xia, Ran Li, **Ming Hu**, and Mingsong Chen, [FedQP: Towards Accurate Federated Learning using Quadratic Programming Guided Mutation](). International Conference on Software Engineering and Knowledge Engineering (SEKE), 2024.
+-   ``SEKE 2024`` (<span style="color:green">CCF-C</span>) Jiawen Weng, Zeke Xia, Ran Li, **Ming Hu**, and Mingsong Chen, [FedQP: Towards Accurate Federated Learning using Quadratic Programming Guided Mutation](). In Proceedings of International Conference on Software Engineering and Knowledge Engineering (SEKE), 2024.
 
 -   ``TCAD`` (<span style="color:red">CCF-A</span>) Zekai Chen, Chentao Jia, **Ming Hu\***, Xiaofei Xie, Anran Li, and Mingsong Chen, [FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios](). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
 
