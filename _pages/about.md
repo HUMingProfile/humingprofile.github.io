@@ -88,9 +88,9 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 -   ``TCAD`` (<span style="color:red">CCF-A</span>) Zeke Xia, **Ming Hu**, Dengke Yan, Xiaofei Xie, Tianlin Li, Anran Li, Junlong Zhou, and Mingsong Chen, [CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance](). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
 
--   ``TIFS`` (<span style="color:red">CCF-A</span>) Yihao Huang, Qing Guo, Felix Juefei Xu, **Ming Hu**, Xiaojun Jia, Xiaochun Cao, Geguang Pu, and Yang Liu, [Texture Re-scalable Universal Adversarial Perturbation](). IEEE Transactions on Information Forensics & Security (TIFS), 2024.
+-   ``TIFS`` (<span style="color:red">CCF-A</span>) Yihao Huang, Qing Guo, Felix Juefei Xu, **Ming Hu**, Xiaojun Jia, Xiaochun Cao, Geguang Pu, and Yang Liu, [Texture Re-scalable Universal Adversarial Perturbation](https://ieeexplore.ieee.org/document/10559847). IEEE Transactions on Information Forensics & Security (TIFS), 2024.
 
--	``KDD 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Zhihao Yue, Xiaofei Xie, Cheng Chen, Yihao Huang, Xian Wei, Xiang Lian, Yang Liu, and Mingsong Chen, [Is Aggregation the Only Choice? Federated Learning via Layer-wise Model Recombination](https://dl.acm.org/doi/abs/10.1145/3637528.3671722). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 1096-1107, 2024.
+-	``KDD 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Zhihao Yue, Xiaofei Xie, Cheng Chen, Yihao Huang, Xian Wei, Xiang Lian, Yang Liu, and Mingsong Chen, [Is Aggregation the Only Choice? Federated Learning via Layer-wise Model Recombination](https://dl.acm.org/doi/abs/10.1145/3637528.3671722). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 1096-1107, 2024. [CODE](https://github.com/HMHelloWorld/FedMR)
 
 -	``ToN`` (<span style="color:red">CCF-A</span>) Ziming Zhao, Zhaoxuan Li, Xiaofei Xie, Jiongchi Yu, Fan Zhang, Rui Zhang, Binbin Chen, Xiangyang Luo,**Ming Hu**, and Wenrui Ma, [FOSS: Towards Fine-Grained Unknown Class Detection against the Open-Set Attack Spectrum with Variable Legitimate Traffic](). IEEE/ACM Transactions on Networking (ToN), 2024.
 
@@ -98,9 +98,9 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 - ``ISSTA 2024`` (<span style="color:red">CCF-A</span>) Maoyi Xie, **Ming Hu\***, Ziqiao Kong, Cen Zhang, Yebo Feng, Haijun Wang, Yue Xue, Hao Zhang, Ye Liu, and Yang Liu, [DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications](https://dl.acm.org/doi/abs/10.1145/3650212.3652137). In Proceedings of International Symposium on Software Testing and Analysis (ISSTA), 402-414, 2024.
 
-- ``DAC 2024`` (<span style="color:red">CCF-A</span>) Chentao Jia, **Ming Hu\***, Zekai Chen, Yanxin Yang, Xiaofei Xie, Yang Liu, and Mingsong Chen\*, [AdaptiveFL: Adaptive Heterogeneous Federated Learning for Resource-Constrained AIoT Systems](https://arxiv.org/pdf/2311.13166). In Proceedings of Design Automation Conference (DAC), 2024.
+- ``DAC 2024`` (<span style="color:red">CCF-A</span>) Chentao Jia, **Ming Hu\***, Zekai Chen, Yanxin Yang, Xiaofei Xie, Yang Liu, and Mingsong Chen\*, [AdaptiveFL: Adaptive Heterogeneous Federated Learning for Resource-Constrained AIoT Systems](https://arxiv.org/pdf/2311.13166). In Proceedings of Design Automation Conference (DAC), 2024. [CODE]()
 
-- ``ICDE 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, Yihao Huang, Anran Li, Yang Liu, Xiang Lian, and Mingsong Chen, [FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation](https://arxiv.org/pdf/2210.08285). In Proceedings of IEEE International Conference on Data Engineering (ICDE), 2137-2150, 2024.
+- ``ICDE 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, Yihao Huang, Anran Li, Yang Liu, Xiang Lian, and Mingsong Chen, [FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation](https://arxiv.org/pdf/2210.08285). In Proceedings of IEEE International Conference on Data Engineering (ICDE), 2137-2150, 2024. [CODE](https://github.com/mastlab-T3S/Federated_Learning)
 
 - ``IUI 2024`` (<span style="color:orange">CCF-B</span>) Liming Nie, and Kabir Sulaiman Said\*, **Ming Hu\***, [SoK: An Exhaustive Taxonomy of Display Issues for Mobile Applications](https://dl.acm.org/doi/10.1145/3640543.3645193). In Proceedings of ACM International Conference on Intelligent User Interfaces (IUI), 537-548, 2024.
 
@@ -108,12 +108,12 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 - ``AAAI 2024`` (<span style="color:red">CCF-A</span>) Yihao Huang, Felix Juefei-Xu, Qing Guo, Jie Zhang Yutong Wu,**Ming Hu**, Tianlin Li, Geguang Pu, and Yang Liu, [Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models](https://ojs.aaai.org/index.php/AAAI/article/view/30110/31960). In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 38(19), 21169-21178, 2024.
 
-- ``AAAI 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Yue Cao, Anran Li, Zhiming Li, Chengwei Liu, Tianlin Li, Mingsong Chen, and Yang Liu, [FedMut: Generalized Federated Learning via Stochastic Mutation](https://ojs.aaai.org/index.php/AAAI/article/view/29146/30169). In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 38(11), 12528-12537, 2024. (<span style="color:red">Oral</span>)
+- ``AAAI 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Yue Cao, Anran Li, Zhiming Li, Chengwei Liu, Tianlin Li, Mingsong Chen, and Yang Liu, [FedMut: Generalized Federated Learning via Stochastic Mutation](https://ojs.aaai.org/index.php/AAAI/article/view/29146/30169). In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 38(11), 12528-12537, 2024. (<span style="color:red">Oral</span>)[CODE](https://github.com/HMHelloWorld/FedMut)
 
 ### 2023
 ---
 
-- ``RTSS 2023`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Zeke Xia, Dengke Yan, Zhihao Yue, Jun Xia, Yihao Huang, Yang Liu, and Mingsong Chen, [GitFL: Uncertainty-Aware Real-Time Asynchronous Federated Learning using Version Control](https://www.computer.org/csdl/proceedings-article/rtss/2023/285700a145/1UjInWgoXGE). In Proceedings of IEEE Real-Time Systems Symposium (RTSS), 145-157, 2023.
+- ``RTSS 2023`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Zeke Xia, Dengke Yan, Zhihao Yue, Jun Xia, Yihao Huang, Yang Liu, and Mingsong Chen, [GitFL: Uncertainty-Aware Real-Time Asynchronous Federated Learning using Version Control](https://www.computer.org/csdl/proceedings-article/rtss/2023/285700a145/1UjInWgoXGE). In Proceedings of IEEE Real-Time Systems Symposium (RTSS), 145-157, 2023. [CODE](https://github.com/HMHelloWorld/GitFL)
 
 - ``MM 2023`` (<span style="color:red">CCF-A</span>) Zhihao Yue, Jun Xia, Zhiwei Ling, **Ming Hu**, Ting Wang, Xian Wei, Mingsong Chen, [Model-Contrastive Learning for Backdoor Elimination](https://dl.acm.org/doi/pdf/10.1145/3581783.3612415), In Proceedings of ACM Multimedia, 8869-8880, 2023.
 
@@ -151,7 +151,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 ### 2019
 ---
 
-- ``DAC 2019`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Tongquan Wei, Min Zhang, Frédéric Mallet, and Mingsong Chen, [Sample-Guided Automated Synthesis for CCSL Specifications](Sample-Guided Automated Synthesis for CCSL Specifications). In Proceedings of Design Automation Conference (DAC). 98: 1–6, 2019.
+- ``DAC 2019`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Tongquan Wei, Min Zhang, Frédéric Mallet, and Mingsong Chen, [Sample-Guided Automated Synthesis for CCSL Specifications](https://dl.acm.org/doi/abs/10.1145/3316781.3317904). In Proceedings of Design Automation Conference (DAC). 98: 1–6, 2019.
 
 <span class='anchor' id='-awards'></span>
 
