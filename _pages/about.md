@@ -80,25 +80,25 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 ---
 -   ``NeurIPS 2024`` (<span style="color:red">CCF-A</span>) Yanxin Yang, Chentao Jia, Dengke Yan, **Ming Hu\***, Tianlin Li, Xiaofei Xie, Xian Wei, and Mingsong Chen\*, [SampDetox: Black-box Backdoor Defense via Perturbation-based Sample Detoxification](). In Proceedings of Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
 
--   ``TMC`` (<span style="color:red">CCF-A</span>) Anran Li, Guangjing Wang, **Ming Hu**, Jianfei Sun, Lan Zhang, Anh Tuan Luu, and Han Yu, [Joint Client-and-Sample Selection for Federated Learning via Bi-level Optimization](). IEEE Transactions on Mobile Computing (TMC), 2024.
+-   ``TMC`` (<span style="color:red">CCF-A</span>) Anran Li, Guangjing Wang, **Ming Hu**, Jianfei Sun, Lan Zhang, Anh Tuan Luu, and Han Yu, [Joint Client-and-Sample Selection for Federated Learning via Bi-level Optimization](https://ieeexplore.ieee.org/abstract/document/10668811). IEEE Transactions on Mobile Computing (TMC), 2024.
 
 -   ``SEKE 2024`` (<span style="color:green">CCF-C</span>) Jiawen Weng, Zeke Xia, Ran Li, **Ming Hu**, and Mingsong Chen, [FedQP: Towards Accurate Federated Learning using Quadratic Programming Guided Mutation](). In Proceedings of International Conference on Software Engineering and Knowledge Engineering (SEKE), 2024.
 
--   ``TCAD`` (<span style="color:red">CCF-A</span>) Zekai Chen, Chentao Jia, **Ming Hu\***, Xiaofei Xie, Anran Li, and Mingsong Chen, [FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios](). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
+-   ``TCAD`` (<span style="color:red">CCF-A</span>) Zekai Chen, Chentao Jia, **Ming Hu\***, Xiaofei Xie, Anran Li, and Mingsong Chen, [FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios](https://arxiv.org/pdf/2407.12729). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024. [CODE](https://github.com/mastlab-T3S/FlexFL)
 
--   ``TCAD`` (<span style="color:red">CCF-A</span>) Zeke Xia, **Ming Hu**, Dengke Yan, Xiaofei Xie, Tianlin Li, Anran Li, Junlong Zhou, and Mingsong Chen, [CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance](). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
+-   ``TCAD`` (<span style="color:red">CCF-A</span>) Zeke Xia, **Ming Hu**, Dengke Yan, Xiaofei Xie, Tianlin Li, Anran Li, Junlong Zhou, and Mingsong Chen, [CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance](https://arxiv.org/pdf/2404.12850). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
 
 -   ``TIFS`` (<span style="color:red">CCF-A</span>) Yihao Huang, Qing Guo, Felix Juefei Xu, **Ming Hu**, Xiaojun Jia, Xiaochun Cao, Geguang Pu, and Yang Liu, [Texture Re-scalable Universal Adversarial Perturbation](https://ieeexplore.ieee.org/document/10559847). IEEE Transactions on Information Forensics & Security (TIFS), 2024.
 
 -	``KDD 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Zhihao Yue, Xiaofei Xie, Cheng Chen, Yihao Huang, Xian Wei, Xiang Lian, Yang Liu, and Mingsong Chen, [Is Aggregation the Only Choice? Federated Learning via Layer-wise Model Recombination](https://dl.acm.org/doi/abs/10.1145/3637528.3671722). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 1096-1107, 2024. [CODE](https://github.com/HMHelloWorld/FedMR)
 
--	``ToN`` (<span style="color:red">CCF-A</span>) Ziming Zhao, Zhaoxuan Li, Xiaofei Xie, Jiongchi Yu, Fan Zhang, Rui Zhang, Binbin Chen, Xiangyang Luo,**Ming Hu**, and Wenrui Ma, [FOSS: Towards Fine-Grained Unknown Class Detection against the Open-Set Attack Spectrum with Variable Legitimate Traffic](). IEEE/ACM Transactions on Networking (ToN), 2024.
+-	``ToN`` (<span style="color:red">CCF-A</span>) Ziming Zhao, Zhaoxuan Li, Xiaofei Xie, Jiongchi Yu, Fan Zhang, Rui Zhang, Binbin Chen, Xiangyang Luo,**Ming Hu**, and Wenrui Ma, [FOSS: Towards Fine-Grained Unknown Class Detection against the Open-Set Attack Spectrum with Variable Legitimate Traffic](https://ieeexplore.ieee.org/document/10638516). IEEE/ACM Transactions on Networking (ToN), 2024.
 
 - ``FSE 2024`` (<span style="color:red">CCF-A</span>) Kaixuan Li, Yue Xue, Sen Chen, Han Liu, Kairan Sun, **Ming Hu**, Haijun Wang, Yang Liu, and Yixiang Chen, [Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?](https://dl.acm.org/doi/pdf/10.1145/3660772). In Proceedings of ACM SIGSOFT Symposium on the Foundation of Software Engineering (FSE), 1447-1470, 2024. <span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>
 
 - ``ISSTA 2024`` (<span style="color:red">CCF-A</span>) Maoyi Xie, **Ming Hu\***, Ziqiao Kong, Cen Zhang, Yebo Feng, Haijun Wang, Yue Xue, Hao Zhang, Ye Liu, and Yang Liu, [DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications](https://dl.acm.org/doi/abs/10.1145/3650212.3652137). In Proceedings of International Symposium on Software Testing and Analysis (ISSTA), 402-414, 2024.
 
-- ``DAC 2024`` (<span style="color:red">CCF-A</span>) Chentao Jia, **Ming Hu\***, Zekai Chen, Yanxin Yang, Xiaofei Xie, Yang Liu, and Mingsong Chen\*, [AdaptiveFL: Adaptive Heterogeneous Federated Learning for Resource-Constrained AIoT Systems](https://arxiv.org/pdf/2311.13166). In Proceedings of Design Automation Conference (DAC), 2024. [CODE]()
+- ``DAC 2024`` (<span style="color:red">CCF-A</span>) Chentao Jia, **Ming Hu\***, Zekai Chen, Yanxin Yang, Xiaofei Xie, Yang Liu, and Mingsong Chen\*, [AdaptiveFL: Adaptive Heterogeneous Federated Learning for Resource-Constrained AIoT Systems](https://arxiv.org/pdf/2311.13166). In Proceedings of Design Automation Conference (DAC), 2024. [CODE](https://github.com/mastlab-T3S/AdaptiveFL)
 
 - ``ICDE 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, Yihao Huang, Anran Li, Yang Liu, Xiang Lian, and Mingsong Chen, [FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation](https://arxiv.org/pdf/2210.08285). In Proceedings of IEEE International Conference on Data Engineering (ICDE), 2137-2150, 2024. [CODE](https://github.com/mastlab-T3S/Federated_Learning)
 
@@ -108,7 +108,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 - ``AAAI 2024`` (<span style="color:red">CCF-A</span>) Yihao Huang, Felix Juefei-Xu, Qing Guo, Jie Zhang Yutong Wu,**Ming Hu**, Tianlin Li, Geguang Pu, and Yang Liu, [Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models](https://ojs.aaai.org/index.php/AAAI/article/view/30110/31960). In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 38(19), 21169-21178, 2024.
 
-- ``AAAI 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Yue Cao, Anran Li, Zhiming Li, Chengwei Liu, Tianlin Li, Mingsong Chen, and Yang Liu, [FedMut: Generalized Federated Learning via Stochastic Mutation](https://ojs.aaai.org/index.php/AAAI/article/view/29146/30169). In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 38(11), 12528-12537, 2024. (<span style="color:red">Oral</span>)[CODE](https://github.com/HMHelloWorld/FedMut)
+- ``AAAI 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Yue Cao, Anran Li, Zhiming Li, Chengwei Liu, Tianlin Li, Mingsong Chen, and Yang Liu, [FedMut: Generalized Federated Learning via Stochastic Mutation](https://ojs.aaai.org/index.php/AAAI/article/view/29146/30169). In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 38(11), 12528-12537, 2024. (<span style="color:red">Oral</span>) [CODE](https://github.com/HMHelloWorld/FedMut)
 
 ### 2023
 ---
