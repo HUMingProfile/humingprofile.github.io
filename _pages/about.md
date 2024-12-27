@@ -19,23 +19,25 @@ redirect_from:
 # About Me
 
 I am a **Research Scientist** in group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) (<font size="3px">谢肖飞</font>), **Singapore Management University**, Singapore (2024.6-). Previously, I was a Research Fellow in group of Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (<font size="3px">刘杨</font>) at Nanyang Technological University, Singapore (2022.09-2024.05).
-I received my Bachelor's Degree in June 2017, and my Ph.D. Degree in June 2022 from East China Normal University, China (<font size="3px">华东师范大学</font>), under the supervision of Prof. [Mingsong Chen](https://faculty.ecnu.edu.cn/_s43/cms/main.psp) (<font size="3px">陈铭松</font>). 
+I received my Bachelor's Degree in June 2017, and my Ph.D. Degree in June 2022 from East China Normal University, China (<font size="3px">华东师范大学</font>). 
 My research interest mainly include：
 - Cyber Physical Systems (<font color="blue" size="3px">信息物理融合系统</font>)
 - Federated Learning  (<font color="blue" size="3px">联邦学习</font>)
 - Program Analysis and Testing (<font color="blue" size="3px">程序分析和测试</font>)
 - Trustworthy AI (<font color="blue" size="3px">可信人工智能</font>)
 
-  I have published 20+ papers
+  I have published 30+ papers
  <a href='https://scholar.google.com/citations?user=ZTTvNb0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a> at top conferences and journals such as RTSS, DAC, KDD, ICDE, AAAI, ISSTA, FSE, TCAD, TC, ToN.
   
-**I am open to co-supervising doctoral students in the fields of Federated Learning, Trustworthy AI, and Software Engineering.**
-If you are interested, please send your CV to my email (**hu.ming.work@gmail.com**)
+<!--**I am open to co-supervising doctoral students in the fields of Federated Learning, Trustworthy AI, and Software Engineering.**-->
+<!--If you are interested, please send your CV to my email (**hu.ming.work@gmail.com**)-->
   
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
 ### 2024:
+- *2024.12* 🎉 One paper got accepted by ICASSP 2025 (<span style="color:orange">CCF-B</span>)!
+- *2024.12* 🎉 One paper got accepted by AAAI 2025 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Zeke</span>!
 - *2024.09* 🎉 One paper got accepted by NeurIPS 2024 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Yanxin</span>!
 - *2024.08* 🎉 One paper got accepted by TMC (<span style="color:red">CCF-A</span>)!
 - *2024.07* 🎉 One paper got accepted by CODES+ISSS 2024 (Published in TCAD (<span style="color:red">CCF-A</span>))! Congrats to <span style="color:blue">Zekai</span>!
@@ -48,16 +50,16 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 - *2024.03* 🎉 One paper got accepted by ISSTA 2024 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Maoyi</span>!
 - *2024.02* 🎉 One paper got accepted by DAC 2024 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Chentao</span>!
 
-### 2023:
-
-- *2023.12* 🎉 One paper got accepted by IUI 2024 (<span style="color:orange">CCF-B</span>)!
-- *2023.12* 🎉 One paper got accepted by ICASSP 2024 (<span style="color:orange">CCF-B</span>)!
-- *2023.12* 🎉 Two papers got accepted by AAAI 2024 (<span style="color:red">CCF-A</span>)!
-- *2023.12* 🎉 One paper got accepted by ICDE 2024 (<span style="color:red">CCF-A</span>)!
-- *2023.08* 🎉 One paper got accepted by RTSS 2023 (<span style="color:red">CCF-A</span>)!
-- *2023.08* 🎉 One paper got accepted by MM 2023 (<span style="color:red">CCF-A</span>)!
-- *2023.06* 🎉 One paper got accepted by TCAD (<span style="color:red">CCF-A</span>)!
-- *2023.03* 🎉 One paper got accepted by TCAD (<span style="color:red">CCF-A</span>)!
+<!--### 2023:-->
+<!---->
+<!--- *2023.12* 🎉 One paper got accepted by IUI 2024 (<span style="color:orange">CCF-B</span>)!-->
+<!--- *2023.12* 🎉 One paper got accepted by ICASSP 2024 (<span style="color:orange">CCF-B</span>)!-->
+<!--- *2023.12* 🎉 Two papers got accepted by AAAI 2024 (<span style="color:red">CCF-A</span>)!-->
+<!--- *2023.12* 🎉 One paper got accepted by ICDE 2024 (<span style="color:red">CCF-A</span>)!-->
+<!--- *2023.08* 🎉 One paper got accepted by RTSS 2023 (<span style="color:red">CCF-A</span>)!-->
+<!--- *2023.08* 🎉 One paper got accepted by MM 2023 (<span style="color:red">CCF-A</span>)!-->
+<!--- *2023.06* 🎉 One paper got accepted by TCAD (<span style="color:red">CCF-A</span>)!-->
+<!--- *2023.03* 🎉 One paper got accepted by TCAD (<span style="color:red">CCF-A</span>)!-->
 
 
 <span class='anchor' id='-wx'></span>
@@ -76,6 +78,14 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 # 📝 Publications
 \* Corresponding Author
+
+\# Equal Contribution
+### 2025
+---
+-   ``ICASSP 2025`` (<span style="color:orange">CCF-B</span>) Pengyu Zhang, Yingjie Liu, Yingbo Zhou, **Ming Hu**, Xian Wei, and Mingsong Chen, [CE-FFT: Communication-Efficient Federated Fine-Tuning for Large Language Models via Quantization and In-Context Learning](). In Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.
+
+-   ``AAAI 2025`` (<span style="color:red">CCF-A</span>) Zeke Xia\#, **Ming Hu\#**, Dengke Yan, Ruixuan Liu, Anran Li, Xiaofei Xie, and Mingsong Chen, [MultiSFL: Towards Accurate Split Federated Learning via Multi-Model Aggregation and Knowledge Replay](). In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2025.
+
 ### 2024
 ---
 -   ``NeurIPS 2024`` (<span style="color:red">CCF-A</span>) Yanxin Yang, Chentao Jia, Dengke Yan, **Ming Hu\***, Tianlin Li, Xiaofei Xie, Xian Wei, and Mingsong Chen\*, [SampDetox: Black-box Backdoor Defense via Perturbation-based Sample Detoxification](). In Proceedings of Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
