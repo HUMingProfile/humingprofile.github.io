@@ -35,6 +35,11 @@ My research interest mainly include：
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+### 2025:
+- *2025.02* 🎉 One paper got accepted by DAC 2025 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Dengke</span>!
+- *2025.01* 🎉 One paper got accepted by ICSE 2025 (<span style="color:red">CCF-A</span>)!
+- *2025.01* 🎉 One paper got accepted by FSE 2025 (<span style="color:red">CCF-A</span>)!
+
 ### 2024:
 - *2024.12* 🎉 One paper got accepted by ICASSP 2025 (<span style="color:orange">CCF-B</span>)!
 - *2024.12* 🎉 One paper got accepted by AAAI 2025 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Zeke</span>!
@@ -82,9 +87,15 @@ My research interest mainly include：
 \# Equal Contribution
 ### 2025
 ---
--   ``ICASSP 2025`` (<span style="color:orange">CCF-B</span>) Pengyu Zhang, Yingjie Liu, Yingbo Zhou, **Ming Hu**, Xian Wei, and Mingsong Chen, [CE-FFT: Communication-Efficient Federated Fine-Tuning for Large Language Models via Quantization and In-Context Learning](). In Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.
+-   ``DAC 2025`` (<span style="color:red">CCF-A</span>) Dengke Yan, Yanxin Yang, **Ming Hu**, Xin Fu, and Mingsong Chen. [MMDFL: Multi-Model-based Decentralized Federated Learning for Resource-Constrained AIoT Systems](). In Proceedings of Design Automation Conference (DAC), 2025, Accepted.
 
--   ``AAAI 2025`` (<span style="color:red">CCF-A</span>) Zeke Xia\#, **Ming Hu\#**, Dengke Yan, Ruixuan Liu, Anran Li, Xiaofei Xie, and Mingsong Chen, [MultiSFL: Towards Accurate Split Federated Learning via Multi-Model Aggregation and Knowledge Replay](). In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2025.
+-   ``ICSE 2025`` (<span style="color:red">CCF-A</span>) Qi Guo, Xiaofei Xie, Shangqing Liu, **Ming Hu**, Xiaohong Li, and Lei Bu, [Intention is All You Need: Refining Your Code from Your Intention](). In Proceedings of International Conference on Software Engineering (ICSE), 2025, Accepted.
+
+-   ``FSE 2025`` (<span style="color:red">CCF-A</span>) Ziqiao Kong, Cen Zhang, Maoyi Xie, **Ming Hu**, Yue Xue, Ye Liu, Haijun Wang, Yang Liu, [Smart Contract Fuzzing Towards Profitable Vulnerabilities](). In Proceedings of ACM International Conference on the Foundations of Software Engineering (FSE), 2025, Accepted.
+
+-   ``ICASSP 2025`` (<span style="color:orange">CCF-B</span>) Pengyu Zhang, Yingjie Liu, Yingbo Zhou, **Ming Hu**, Xian Wei, and Mingsong Chen, [CE-FFT: Communication-Efficient Federated Fine-Tuning for Large Language Models via Quantization and In-Context Learning](). In Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025, Accepted.
+
+-   ``AAAI 2025`` (<span style="color:red">CCF-A</span>) Zeke Xia\#, **Ming Hu\#**, Dengke Yan, Ruixuan Liu, Anran Li, Xiaofei Xie, and Mingsong Chen, [MultiSFL: Towards Accurate Split Federated Learning via Multi-Model Aggregation and Knowledge Replay](). In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2025, Accepted.
 
 ### 2024
 ---
