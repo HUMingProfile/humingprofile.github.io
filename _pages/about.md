@@ -23,19 +23,21 @@ I received my Bachelor's Degree in June 2017, and my Ph.D. Degree in June 2022 f
 My research interest mainly include：
 - Cyber Physical Systems (<font color="blue" size="3px">信息物理融合系统</font>)
 - Federated Learning  (<font color="blue" size="3px">联邦学习</font>)
-- Program Analysis and Testing (<font color="blue" size="3px">程序分析和测试</font>)
+- Software Engineering  (<font color="blue" size="3px">软件工程</font>)
+<!--- Program Analysis and Testing (<font color="blue" size="3px">程序分析和测试</font>)-->
 - Trustworthy AI (<font color="blue" size="3px">可信人工智能</font>)
 
   I have published 30+ papers
  <a href='https://scholar.google.com/citations?user=ZTTvNb0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a> at top conferences and journals such as RTSS, DAC, KDD, ICDE, AAAI, ISSTA, FSE, TCAD, TC, ToN.
   
-<!--**I am open to co-supervising doctoral students in the fields of Federated Learning, Trustworthy AI, and Software Engineering.**-->
-<!--If you are interested, please send your CV to my email (**hu.ming.work@gmail.com**)-->
-  
+**I am open to co-supervising doctoral students in the fields of Cyber-Physical Systems, Federated Learning, Software Engineering and Trustworthy AI.**
+If you are interested, please send your CV to my email (**hu.ming.work@gmail.com**).
+
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
 ### 2025:
+- *2025.03* 🎉 One paper got accepted by TOSEM (<span style="color:red">CCF-A</span>)! 
 - *2025.02* 🎉 One paper got accepted by DAC 2025 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Dengke</span>!
 - *2025.01* 🎉 One paper got accepted by ICSE 2025 (<span style="color:red">CCF-A</span>)!
 - *2025.01* 🎉 One paper got accepted by FSE 2025 (<span style="color:red">CCF-A</span>)!
@@ -87,6 +89,8 @@ My research interest mainly include：
 \# Equal Contribution
 ### 2025
 ---
+-   ``TOSEM`` (<span style="color:red">CCF-A</span>)Xiaoyu Zhang, Cen Zhang, Tianlin Li, Yihao Huang, Xiaojun Jia, **Ming Hu**, Jie Zhang, Yang Liu, Shiqing Ma, Chao Shen. [JailGuard: A Universal Detection Framework for LLM Prompt-based Attacks](). ACM Transactions on Software Engineering and Methodology (TOSEM), 2025, Accepted.
+
 -   ``DAC 2025`` (<span style="color:red">CCF-A</span>) Dengke Yan, Yanxin Yang, **Ming Hu**, Xin Fu, and Mingsong Chen. [MMDFL: Multi-Model-based Decentralized Federated Learning for Resource-Constrained AIoT Systems](). In Proceedings of Design Automation Conference (DAC), 2025, Accepted.
 
 -   ``ICSE 2025`` (<span style="color:red">CCF-A</span>) Qi Guo, Xiaofei Xie, Shangqing Liu, **Ming Hu**, Xiaohong Li, and Lei Bu, [Intention is All You Need: Refining Your Code from Your Intention](). In Proceedings of International Conference on Software Engineering (ICSE), 2025, Accepted.
