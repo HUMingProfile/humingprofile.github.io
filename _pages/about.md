@@ -92,7 +92,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 \# Equal Contribution
 ### 2025
 ---
--   ``CCS 2025`` (<span style="color:red">CCF-A</span>) Yanxin Yang, **Ming Hu\***, Yue Cao, Pengyu Zhang, Yihao Huang, and Mingsong Chen\*. [    FilterFL: Knowledge Filtering-based Data-Free Backdoor Defense for Federated Learning](). In Proceedings of ACM Conference on Computer and Communications Security (CCS), 2025, Accepted.
+-   ``CCS 2025`` (<span style="color:red">CCF-A</span>) Yanxin Yang, **Ming Hu\***, Xiaofei Xie, Yue Cao, Pengyu Zhang, Yihao Huang, and Mingsong Chen\*. [    FilterFL: Knowledge Filtering-based Data-Free Backdoor Defense for Federated Learning](). In Proceedings of ACM Conference on Computer and Communications Security (CCS), 2025, Accepted.
 
 -   ``KDD 2025`` (<span style="color:red">CCF-A</span>) Zhufeng Lu, Chentao Jia, **Ming Hu\***, Xiaofei Xie, and Mingsong Chen\*. [Gradients as An Action: Towards Communication-Efficient Federated Recommender Systems via Adaptive Action Sharing](). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025, Accepted.
 
