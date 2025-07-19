@@ -109,6 +109,8 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 -   ``FSE 2025`` (<span style="color:red">CCF-A</span>) Ziqiao Kong, Cen Zhang, Maoyi Xie, **Ming Hu**, Yue Xue, Ye Liu, Haijun Wang, Yang Liu, [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://dl.acm.org/doi/abs/10.1145/3715720). In Proceedings of ACM International Conference on the Foundations of Software Engineering (FSE), 153 - 175, 2025.
 
+-   ``JCSC`` (SCI) Pengyu Zhang, Yingbo Zhou, **Ming Hu**, Xian Wei, and Mingsong Chen, [CyclicFL: Efficient Federated Learning with Cyclic Model Pre-Training](https://www.worldscientific.com/doi/abs/10.1142/S0218126625501658). Journal of Circuits, Systems and Computers, 34(7): 2550165:1-2550165:16, 2025.
+
 -   ``ICASSP 2025`` (<span style="color:orange">CCF-B</span>) Pengyu Zhang, Yingjie Liu, Yingbo Zhou, **Ming Hu**, Xian Wei, and Mingsong Chen, [CE-FFT: Communication-Efficient Federated Fine-Tuning for Large Language Models via Quantization and In-Context Learning](https://ieeexplore.ieee.org/document/10889971). In Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 1-5, 2025.
 
 -   ``AAAI 2025`` (<span style="color:red">CCF-A</span>) Zeke Xia\#, **Ming Hu\#**, Dengke Yan, Ruixuan Liu, Anran Li, Xiaofei Xie, and Mingsong Chen, [MultiSFL: Towards Accurate Split Federated Learning via Multi-Model Aggregation and Knowledge Replay](https://ojs.aaai.org/index.php/AAAI/article/view/32076). In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 39(1): 914-922, 2025. [CODE](https://github.com/CodeFree-xzk/MultiSFL)
@@ -172,9 +174,9 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 - ``TCAD`` (<span style="color:red">CCF-A</span>) Xinqian Zhang, **Ming Hu**, Jun Xia, Tongquan Wei, Mingsong Chen, and Shiyan Hu, [Efficient Federated Learning for Cloud-Based AIoT Applications](https://ieeexplore.ieee.org/document/9302596). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 40(11): 2211-2223, 2021.
 
-- ``JCSC 2021`` (SCI) Tian Liu, Yunfei Song, **Ming Hu**, Jun Xia, Jianning Zhang, and Mingsong Chen, [An Ensemble Learning-Based Cooperative Defensive Architecture Against Adversarial Attacks](https://www.worldscientific.com/doi/10.1142/S0218126621500250). Journal of Circuits, Systems and Computers, 30(2): 2150025:1-2150025:16, 2021.
+- ``JCSC`` (SCI) Tian Liu, Yunfei Song, **Ming Hu**, Jun Xia, Jianning Zhang, and Mingsong Chen, [An Ensemble Learning-Based Cooperative Defensive Architecture Against Adversarial Attacks](https://www.worldscientific.com/doi/10.1142/S0218126621500250). Journal of Circuits, Systems and Computers, 30(2): 2150025:1-2150025:16, 2021.
 
-- ``JOS 2021`` (Chinese-list CCF-A) Mingli Shao, E Cao, **Ming Hu**, Yue Zhang, Wenjie Chen, and Mingsong Chen. [Traffic Light Optimization Control Method for Priority Vehicle Awareness](). Journal of Software, 32(8): 2425-2438, 2021. (in Chinese)
+- ``JOS`` (Chinese-list CCF-A) Mingli Shao, E Cao, **Ming Hu**, Yue Zhang, Wenjie Chen, and Mingsong Chen. [Traffic Light Optimization Control Method for Priority Vehicle Awareness](). Journal of Software, 32(8): 2425-2438, 2021. (in Chinese)
         
 ### 2020
 ---
