@@ -37,6 +37,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 # 🔥 News
 ### 2025:
+- *2025.07* 🎉 One paper got accepted by TMC (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Ruixuan</span>!
 - *2025.05* 🎉 One paper got accepted by CCS 2025 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Yanxin</span>!
 - *2025.05* 🎉 One paper got accepted by KDD 2025 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Zhufeng</span>!
 - *2025.04* 🎉 One paper got accepted by ICML 2025 (<span style="color:red">CCF-A</span>)! 
@@ -92,23 +93,25 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 \# Equal Contribution
 ### 2025
 ---
--   ``CCS 2025`` (<span style="color:red">CCF-A</span>) Yanxin Yang, **Ming Hu\***, Xiaofei Xie, Yue Cao, Pengyu Zhang, Yihao Huang, and Mingsong Chen\*. [    FilterFL: Knowledge Filtering-based Data-Free Backdoor Defense for Federated Learning](). In Proceedings of ACM Conference on Computer and Communications Security (CCS), 2025, Accepted.
+-   ``TMC`` (<span style="color:red">CCF-A</span>) Ruixuan Liu, **Ming Hu\***, Zeke Xia, Xiaofei Xie, Jun Xia, Pengyu Zhang, Yihao Huang, and Mingsong Chen\*. [FedGraft: Memory-Aware Heterogeneous Federated Learning via Model Grafting]().  IEEE Transactions on Mobile Computing (TMC), 2025, Accepted.
+
+-   ``CCS 2025`` (<span style="color:red">CCF-A</span>) Yanxin Yang, **Ming Hu\***, Xiaofei Xie, Yue Cao, Pengyu Zhang, Yihao Huang, and Mingsong Chen\*. [FilterFL: Knowledge Filtering-based Data-Free Backdoor Defense for Federated Learning](). In Proceedings of ACM Conference on Computer and Communications Security (CCS), 2025, Accepted.
 
 -   ``KDD 2025`` (<span style="color:red">CCF-A</span>) Zhufeng Lu, Chentao Jia, **Ming Hu\***, Xiaofei Xie, and Mingsong Chen\*. [Gradients as An Action: Towards Communication-Efficient Federated Recommender Systems via Adaptive Action Sharing](). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025, Accepted.
 
--   ``ICML 2025`` (<span style="color:red">CCF-A</span>) Yuhang Li, Tong Liu, Yangguang Cui, **Ming Hu**, and Xiaoqiang Li. [One Arrow, Two Hawks: Sharpness-aware Minimization for Federated Learning via Global Model Trajectory](). In Proceedings of International Conference on Machine Learning (ICML), 2025, Accepted.
+-   ``ICML 2025`` (<span style="color:red">CCF-A</span>) Yuhang Li, Tong Liu, Yangguang Cui, **Ming Hu**, and Xiaoqiang Li. [One Arrow, Two Hawks: Sharpness-aware Minimization for Federated Learning via Global Model Trajectory](https://openreview.net/pdf?id=80mK2Mqaph). In Proceedings of International Conference on Machine Learning (ICML), 2025, Accepted.
 
--   ``TOSEM`` (<span style="color:red">CCF-A</span>) Xiaoyu Zhang, Cen Zhang, Tianlin Li, Yihao Huang, Xiaojun Jia, **Ming Hu**, Jie Zhang, Yang Liu, Shiqing Ma, and Chao Shen. [JailGuard: A Universal Detection Framework for LLM Prompt-based Attacks](). ACM Transactions on Software Engineering and Methodology (TOSEM), 2025, Accepted.
+-   ``TOSEM`` (<span style="color:red">CCF-A</span>) Xiaoyu Zhang, Cen Zhang, Tianlin Li, Yihao Huang, Xiaojun Jia, **Ming Hu**, Jie Zhang, Yang Liu, Shiqing Ma, and Chao Shen. [JailGuard: A Universal Detection Framework for LLM Prompt-based Attacks](https://dl.acm.org/doi/pdf/10.1145/3724393). ACM Transactions on Software Engineering and Methodology (TOSEM), 2025, Accepted.
 
 -   ``DAC 2025`` (<span style="color:red">CCF-A</span>) Dengke Yan, Yanxin Yang, **Ming Hu**, Xin Fu, and Mingsong Chen. [MMDFL: Multi-Model-based Decentralized Federated Learning for Resource-Constrained AIoT Systems](). In Proceedings of Design Automation Conference (DAC), 2025, Accepted.
 
--   ``ICSE 2025`` (<span style="color:red">CCF-A</span>) Qi Guo, Xiaofei Xie, Shangqing Liu, **Ming Hu**, Xiaohong Li, and Lei Bu, [Intention is All You Need: Refining Your Code from Your Intention](). In Proceedings of International Conference on Software Engineering (ICSE), 2025, Accepted.
+-   ``ICSE 2025`` (<span style="color:red">CCF-A</span>) Qi Guo, Xiaofei Xie, Shangqing Liu, **Ming Hu**, Xiaohong Li, and Lei Bu, [Intention is All You Need: Refining Your Code from Your Intention](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a728/251mHc6ItOM). In Proceedings of International Conference on Software Engineering (ICSE), 1127-1139, 2025.
 
--   ``FSE 2025`` (<span style="color:red">CCF-A</span>) Ziqiao Kong, Cen Zhang, Maoyi Xie, **Ming Hu**, Yue Xue, Ye Liu, Haijun Wang, Yang Liu, [Smart Contract Fuzzing Towards Profitable Vulnerabilities](). In Proceedings of ACM International Conference on the Foundations of Software Engineering (FSE), 2025, Accepted.
+-   ``FSE 2025`` (<span style="color:red">CCF-A</span>) Ziqiao Kong, Cen Zhang, Maoyi Xie, **Ming Hu**, Yue Xue, Ye Liu, Haijun Wang, Yang Liu, [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://dl.acm.org/doi/abs/10.1145/3715720). In Proceedings of ACM International Conference on the Foundations of Software Engineering (FSE), 153 - 175, 2025.
 
--   ``ICASSP 2025`` (<span style="color:orange">CCF-B</span>) Pengyu Zhang, Yingjie Liu, Yingbo Zhou, **Ming Hu**, Xian Wei, and Mingsong Chen, [CE-FFT: Communication-Efficient Federated Fine-Tuning for Large Language Models via Quantization and In-Context Learning](https://ieeexplore.ieee.org/document/10889971). In Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.
+-   ``ICASSP 2025`` (<span style="color:orange">CCF-B</span>) Pengyu Zhang, Yingjie Liu, Yingbo Zhou, **Ming Hu**, Xian Wei, and Mingsong Chen, [CE-FFT: Communication-Efficient Federated Fine-Tuning for Large Language Models via Quantization and In-Context Learning](https://ieeexplore.ieee.org/document/10889971). In Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 1-5, 2025.
 
--   ``AAAI 2025`` (<span style="color:red">CCF-A</span>) Zeke Xia\#, **Ming Hu\#**, Dengke Yan, Ruixuan Liu, Anran Li, Xiaofei Xie, and Mingsong Chen, [MultiSFL: Towards Accurate Split Federated Learning via Multi-Model Aggregation and Knowledge Replay](https://ojs.aaai.org/index.php/AAAI/article/view/32076). In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 39(1), 914-922, 2025. [CODE](https://github.com/CodeFree-xzk/MultiSFL)
+-   ``AAAI 2025`` (<span style="color:red">CCF-A</span>) Zeke Xia\#, **Ming Hu\#**, Dengke Yan, Ruixuan Liu, Anran Li, Xiaofei Xie, and Mingsong Chen, [MultiSFL: Towards Accurate Split Federated Learning via Multi-Model Aggregation and Knowledge Replay](https://ojs.aaai.org/index.php/AAAI/article/view/32076). In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 39(1): 914-922, 2025. [CODE](https://github.com/CodeFree-xzk/MultiSFL)
 
 ### 2024
 ---
