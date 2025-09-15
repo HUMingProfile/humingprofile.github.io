@@ -93,11 +93,11 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 \# Equal Contribution
 ### 2025
 ---
--   ``TMC`` (<span style="color:red">CCF-A</span>) Ruixuan Liu, **Ming Hu\***, Zeke Xia, Xiaofei Xie, Jun Xia, Pengyu Zhang, Yihao Huang, and Mingsong Chen\*. [FedGraft: Memory-Aware Heterogeneous Federated Learning via Model Grafting]().  IEEE Transactions on Mobile Computing (TMC), 2025, Accepted.
+-   ``TMC`` (<span style="color:red">CCF-A</span>) Ruixuan Liu, **Ming Hu\***, Zeke Xia, Xiaofei Xie, Jun Xia, Pengyu Zhang, Yihao Huang, and Mingsong Chen\*. [FedGraft: Memory-Aware Heterogeneous Federated Learning via Model Grafting](https://ieeexplore.ieee.org/abstract/document/11088243).  IEEE Transactions on Mobile Computing (TMC), 2025, Accepted.
 
 -   ``CCS 2025`` (<span style="color:red">CCF-A</span>) Yanxin Yang, **Ming Hu\***, Xiaofei Xie, Yue Cao, Pengyu Zhang, Yihao Huang, and Mingsong Chen\*. [FilterFL: Knowledge Filtering-based Data-Free Backdoor Defense for Federated Learning](). In Proceedings of ACM Conference on Computer and Communications Security (CCS), 2025, Accepted.
 
--   ``KDD 2025`` (<span style="color:red">CCF-A</span>) Zhufeng Lu, Chentao Jia, **Ming Hu\***, Xiaofei Xie, and Mingsong Chen\*. [Gradients as An Action: Towards Communication-Efficient Federated Recommender Systems via Adaptive Action Sharing](). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025, Accepted.
+-   ``KDD 2025`` (<span style="color:red">CCF-A</span>) Zhufeng Lu, Chentao Jia, **Ming Hu\***, Xiaofei Xie, and Mingsong Chen\*. [Gradients as An Action: Towards Communication-Efficient Federated Recommender Systems via Adaptive Action Sharing](https://dl.acm.org/doi/abs/10.1145/3711896.3736987). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 1999-2009, 2025.
 
 -   ``ICML 2025`` (<span style="color:red">CCF-A</span>) Yuhang Li, Tong Liu, Yangguang Cui, **Ming Hu**, and Xiaoqiang Li. [One Arrow, Two Hawks: Sharpness-aware Minimization for Federated Learning via Global Model Trajectory](https://openreview.net/pdf?id=80mK2Mqaph). In Proceedings of International Conference on Machine Learning (ICML), 2025, Accepted.
 
@@ -117,7 +117,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 ### 2024
 ---
--   ``NeurIPS 2024`` (<span style="color:red">CCF-A</span>) Yanxin Yang, Chentao Jia, Dengke Yan, **Ming Hu\***, Tianlin Li, Xiaofei Xie, Xian Wei, and Mingsong Chen\*, [SampDetox: Black-box Backdoor Defense via Perturbation-based Sample Detoxification](https://proceedings.neurips.cc/paper_files/paper/2024/hash/dbb5180957513805ebeea787b8c66ac9-Abstract-Conference.html). In Proceedings of Annual Conference on Neural Information Processing Systems (NeurIPS), 2024. [CODE](https://github.com/easywood0204/SampDetox)
+-   ``NeurIPS 2024`` (<span style="color:red">CCF-A</span>) Yanxin Yang, Chentao Jia, Dengke Yan, **Ming Hu\***, Tianlin Li, Xiaofei Xie, Xian Wei, and Mingsong Chen\*, [SampDetox: Black-box Backdoor Defense via Perturbation-based Sample Detoxification](https://proceedings.neurips.cc/paper_files/paper/2024/hash/dbb5180957513805ebeea787b8c66ac9-Abstract-Conference.html). In Proceedings of Annual Conference on Neural Information Processing Systems (NeurIPS), 37: 121236-121264, 2024. [CODE](https://github.com/easywood0204/SampDetox)
 
 -   ``TMC`` (<span style="color:red">CCF-A</span>) Anran Li, Guangjing Wang, **Ming Hu**, Jianfei Sun, Lan Zhang, Anh Tuan Luu, and Han Yu, [Joint Client-and-Sample Selection for Federated Learning via Bi-level Optimization](https://ieeexplore.ieee.org/abstract/document/10668811). IEEE Transactions on Mobile Computing (TMC), 32(12): 15196-15209, 2024.
 
@@ -145,7 +145,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 - ``ICASSP 2024`` (<span style="color:orange">CCF-B</span>) Di Yang, Yihao Huang, Qing Guo, Felix Juefei-Xu, **Ming Hu**, Yang Liu, and Geguang Pu, [Architecture-agnostic Iterative Black-box Certified Defense against Adversarial Patches](https://ieeexplore.ieee.org/abstract/document/10448145). In Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 5985-5989, 2024.
 
-- ``AAAI 2024`` (<span style="color:red">CCF-A</span>) Yihao Huang, Felix Juefei-Xu, Qing Guo, Jie Zhang Yutong Wu,**Ming Hu**, Tianlin Li, Geguang Pu, and Yang Liu, [Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models](https://ojs.aaai.org/index.php/AAAI/article/view/30110/31960). In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 38(19): 21169-21178, 2024.
+- ``AAAI 2024`` (<span style="color:red">CCF-A</span>) Yihao Huang, Felix Juefei-Xu, Qing Guo, Jie Zhang, Yutong Wu, **Ming Hu**, Tianlin Li, Geguang Pu, and Yang Liu, [Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models](https://ojs.aaai.org/index.php/AAAI/article/view/30110/31960). In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 38(19): 21169-21178, 2024.
 
 - ``AAAI 2024`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Yue Cao, Anran Li, Zhiming Li, Chengwei Liu, Tianlin Li, Mingsong Chen, and Yang Liu, [FedMut: Generalized Federated Learning via Stochastic Mutation](https://ojs.aaai.org/index.php/AAAI/article/view/29146/30169). In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 38(11): 12528-12537, 2024. (<span style="color:red">Oral</span>) [CODE](https://github.com/HMHelloWorld/FedMut)
 
@@ -160,10 +160,10 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 - ``TCAD`` (<span style="color:red">CCF-A</span>) **Ming Hu**, E Cao, Hongbing Huang, Min Zhang, Xiaohong Chen, and Mingsong Chen, [AIoTML: A Unified Modeling Language for AIoT-Based Cyber-Physical Systems](https://ieeexplore.ieee.org/document/10098154). IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 42(11): 3545-3558, 2023.
 
-- ``TC`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Min Zhang, Frédéric Mallet, Xin Fu, and Mingsong Chen, [Accelerating Reinforcement Learning-Based CCSL Specification Synthesis Using Curiosity-Driven Exploration](https://ieeexplore.ieee.org/document/9858908). IEEE Transactions on Computers (TC), 72(5): 1431-1446, 2023.
-
 ### 2022
 ---
+
+- ``TC`` (<span style="color:red">CCF-A</span>) **Ming Hu**, Min Zhang, Frédéric Mallet, Xin Fu, and Mingsong Chen, [Accelerating Reinforcement Learning-Based CCSL Specification Synthesis Using Curiosity-Driven Exploration](https://ieeexplore.ieee.org/document/9858908). IEEE Transactions on Computers (TC), 72(5): 1431-1446, 2022.
 
 - ``DAC 2022`` (<span style="color:red">CCF-A</span>) Jun Xia, **Ming Hu**, Xin Chen, and Mingsong Chen. [Accelerated synthesis of neural network-based barrier certificates using collaborative learning](https://dl.acm.org/doi/abs/10.1145/3489517.3530608). In Proceedings of Design Automation Conference (DAC), 1201–1206, 2022.
 
