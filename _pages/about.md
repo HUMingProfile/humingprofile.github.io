@@ -97,7 +97,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 ---
 -   ``NeurIPS 2025`` (<span style="color:red">CCF-A</span>) Jiahao Wu, **Ming Hu\***, Yanxin Yang, Xiaofei Xie, Zekai Chen, Chenyu Song, and Mingsong Chen\*, [Rising from Ashes: Generalized Federated Learning via Dynamic Parameter Reset](). In Proceedings of Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.
 
--   ``ASE 2025 NIER`` (<span style="color:red">CCF-A</span>) Xu Lu, Weisong Sun, Yiran Zhang, **Ming Hu**, Cong Tian, Zhi Jin, and Yang Liu. [Requirements Development and Formalization for Reliable Code Generation: A Multi-Agent Vision](https://arxiv.org/pdf/2508.18675).  In Proceedings of   IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025.
+-   ``ASE 2025 NIER`` Xu Lu, Weisong Sun, Yiran Zhang, **Ming Hu**, Cong Tian, Zhi Jin, and Yang Liu. [Requirements Development and Formalization for Reliable Code Generation: A Multi-Agent Vision](https://arxiv.org/pdf/2508.18675).  In Proceedings of   IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025.
 
 -   ``TMC`` (<span style="color:red">CCF-A</span>) Ruixuan Liu, **Ming Hu\***, Zeke Xia, Xiaofei Xie, Jun Xia, Pengyu Zhang, Yihao Huang, and Mingsong Chen\*. [FedGraft: Memory-Aware Heterogeneous Federated Learning via Model Grafting](https://ieeexplore.ieee.org/abstract/document/11088243).  IEEE Transactions on Mobile Computing (TMC), 2025, Accepted.
 
