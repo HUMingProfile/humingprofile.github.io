@@ -37,6 +37,8 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 # 🔥 News
 ### 2025:
+- *2025.10* 🎉 One paper got accepted by TC (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Dengke</span>!
+- *2025.10* 🎉 One paper got accepted by ICSE 2026 (<span style="color:red">CCF-A</span>)!
 - *2025.09* 🎉 One paper got accepted by NeurIPS (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Jiahao</span>!
 - *2025.08* 🎉 One paper got accepted by ASE 2025 NIER!
 - *2025.07* 🎉 One paper got accepted by TMC (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Ruixuan</span>!
@@ -93,8 +95,15 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 \* Corresponding Author
 
 \# Equal Contribution
+
+### 2026
+---
+-   ``ICSE 2026`` (<span style="color:red">CCF-A</span>) Zhujun Wu, Xiaohong Chen, Zhi Jin, **Ming Hu**, Dongming Jin, [Unlocking the Silent Needs: Business-Logic-Driven Iterative Requirements Auto-completion](). In Proceedings of International Conference on Software Engineering (ICSE), Accepted, 2026.
+
 ### 2025
 ---
+-   ``TC`` (<span style="color:red">CCF-A</span>) Dengke Yan, **Ming Hu\***,Xiaofei Xie, Yanxin Yang, and Mingsong Chen\*. [S^2FL: Toward Efficient and Accurate Heterogeneous Split Federated Learning](). IEEE Transactions on Computers (TC), 2025, Accepted.
+
 -   ``NeurIPS 2025`` (<span style="color:red">CCF-A</span>) Jiahao Wu, **Ming Hu\***, Yanxin Yang, Xiaofei Xie, Zekai Chen, Chenyu Song, and Mingsong Chen\*, [Rising from Ashes: Generalized Federated Learning via Dynamic Parameter Reset](). In Proceedings of Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.
 
 -   ``ASE 2025 NIER`` Xu Lu, Weisong Sun, Yiran Zhang, **Ming Hu**, Cong Tian, Zhi Jin, and Yang Liu. [Requirements Development and Formalization for Reliable Code Generation: A Multi-Agent Vision](https://arxiv.org/pdf/2508.18675).  In Proceedings of   IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025.
