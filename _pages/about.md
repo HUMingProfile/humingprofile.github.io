@@ -27,7 +27,7 @@ My research interest mainly include：
 <!--- Program Analysis and Testing (<font color="blue" size="3px">程序分析和测试</font>)-->
 - Trustworthy AI (<font color="blue" size="3px">可信人工智能</font>)
 
-  I have published 30+ papers
+  I have published 40+ papers
  <a href='https://scholar.google.com/citations?user=ZTTvNb0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a> at top conferences and journals such as RTSS, DAC, KDD, ICDE, AAAI, ISSTA, FSE, TCAD, TC, ToN.
   
 **I am open to co-supervising doctoral students in the fields of Cyber-Physical Systems, Federated Learning, Software Engineering and Trustworthy AI.**
@@ -37,9 +37,10 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 # 🔥 News
 ### 2025:
+- *2025.10* 🎉 One paper got accepted by ICDE 2026 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Zhenkai</span>!
 - *2025.10* 🎉 One paper got accepted by TC (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Dengke</span>!
 - *2025.10* 🎉 One paper got accepted by ICSE 2026 (<span style="color:red">CCF-A</span>)!
-- *2025.09* 🎉 One paper got accepted by NeurIPS (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Jiahao</span>!
+- *2025.09* 🎉 One paper got accepted by NeurIPS 2025 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Jiahao</span>!
 - *2025.08* 🎉 One paper got accepted by ASE 2025 NIER!
 - *2025.07* 🎉 One paper got accepted by TMC (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Ruixuan</span>!
 - *2025.05* 🎉 One paper got accepted by CCS 2025 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Yanxin</span>!
@@ -98,13 +99,15 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 ### 2026
 ---
--   ``ICSE 2026`` (<span style="color:red">CCF-A</span>) Zhujun Wu, Xiaohong Chen, Zhi Jin, **Ming Hu**, Dongming Jin, [Unlocking the Silent Needs: Business-Logic-Driven Iterative Requirements Auto-completion](). In Proceedings of International Conference on Software Engineering (ICSE), Accepted, 2026.
+-   ``ICDE 2026`` (<span style="color:red">CCF-A</span>) Zhenkai Li, **Ming Hu\***, Chentao Jia, Yining Sun, Zhufeng Lu, Mingyang Yu, Yanxin Yang, Xiaofei Xie, and Mingsong Chen\*, [AdaFedRec: Adaptive Heterogeneous Federated Recommender Systems across Multi-Device Users](). In Proceedings of IEEE International Conference on Data Engineering (ICDE), Accepted, 2026.
+
+-   ``ICSE 2026`` (<span style="color:red">CCF-A</span>) Zhujun Wu, Xiaohong Chen, Zhi Jin, **Ming Hu**, and Dongming Jin, [Unlocking the Silent Needs: Business-Logic-Driven Iterative Requirements Auto-completion](). In Proceedings of International Conference on Software Engineering (ICSE), Accepted, 2026.
 
 ### 2025
 ---
 -   ``TC`` (<span style="color:red">CCF-A</span>) Dengke Yan, **Ming Hu\***,Xiaofei Xie, Yanxin Yang, and Mingsong Chen\*. [S^2FL: Toward Efficient and Accurate Heterogeneous Split Federated Learning](). IEEE Transactions on Computers (TC), 2025, Accepted.
 
--   ``NeurIPS 2025`` (<span style="color:red">CCF-A</span>) Jiahao Wu, **Ming Hu\***, Yanxin Yang, Xiaofei Xie, Zekai Chen, Chenyu Song, and Mingsong Chen\*, [Rising from Ashes: Generalized Federated Learning via Dynamic Parameter Reset](). In Proceedings of Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.
+-   ``NeurIPS 2025`` (<span style="color:red">CCF-A</span>) Jiahao Wu, **Ming Hu\***, Yanxin Yang, Xiaofei Xie, Zekai Chen, Chenyu Song, and Mingsong Chen\*, [Rising from Ashes: Generalized Federated Learning via Dynamic Parameter Reset](https://openreview.net/pdf?id=QkqQSf1REo). In Proceedings of Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. [CODE](https://github.com/UniString/FedPhoenix)
 
 -   ``ASE 2025 NIER`` Xu Lu, Weisong Sun, Yiran Zhang, **Ming Hu**, Cong Tian, Zhi Jin, and Yang Liu. [Requirements Development and Formalization for Reliable Code Generation: A Multi-Agent Vision](https://arxiv.org/pdf/2508.18675).  In Proceedings of   IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025.
 
