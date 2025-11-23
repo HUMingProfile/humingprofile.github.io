@@ -37,6 +37,8 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 # 🔥 News
 ### 2025:
+- *2025.11* 🎉 One paper got accepted by KDD 2026 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Mingsheng</span> and <span style="color:blue">Tianci</span>!
+- *2025.11* 🎉 One paper got accepted by DATE 2026 (<span style="color:orange">CCF-B</span>)! Congrats to <span style="color:blue">Hao</span>!
 - *2025.10* 🎉 One paper got accepted by ICDE 2026 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Zhenkai</span>!
 - *2025.10* 🎉 One paper got accepted by TC (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Dengke</span>!
 - *2025.10* 🎉 One paper got accepted by ICSE 2026 (<span style="color:red">CCF-A</span>)!
@@ -99,6 +101,10 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 ### 2026
 ---
+-   ``KDD 2026`` (<span style="color:red">CCF-A</span>) Mingsheng Cao, Tianci Chen, **Ming Hu\***, Zhuang Qi, Yangguang Cui, Junlong Zhou, Xiaofei Xie, [Two Heads Are Better Than One: Generalized Cross-Domain Federated Learning via Dual-Prototype](). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Accepted, 2026.
+
+-   ``DATE 2026`` (<span style="color:orange">CCF-B</span>) Hao Shen, **Ming Hu**, Yanxin Yang, Xiaofei Xie, and Mingsong Chen, [Enhance Language Model-based Repair for Memory-related Vulnerabilities via Knowledge- and Semantic-guided Analysis](). In Proceedings of Design, Automation and Test in Europe Conference (DATE), Accepted, 2026.
+
 -   ``ICDE 2026`` (<span style="color:red">CCF-A</span>) Zhenkai Li, **Ming Hu\***, Chentao Jia, Yining Sun, Zhufeng Lu, Mingyang Yu, Yanxin Yang, Xiaofei Xie, and Mingsong Chen\*, [AdaFedRec: Adaptive Heterogeneous Federated Recommender Systems across Multi-Device Users](). In Proceedings of IEEE International Conference on Data Engineering (ICDE), Accepted, 2026.
 
 -   ``ICSE 2026`` (<span style="color:red">CCF-A</span>) Zhujun Wu, Xiaohong Chen, Zhi Jin, **Ming Hu**, and Dongming Jin, [Unlocking the Silent Needs: Business-Logic-Driven Iterative Requirements Auto-completion](). In Proceedings of International Conference on Software Engineering (ICSE), Accepted, 2026.
