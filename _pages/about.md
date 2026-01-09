@@ -37,11 +37,12 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 # 🔥 News
 ### 2025:
+- *2025.12* 🎉 One paper got accepted by ICSE 2026 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Yike</span>!
 - *2025.11* 🎉 One paper got accepted by KDD 2026 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Mingsheng</span> and <span style="color:blue">Tianci</span>!
 - *2025.11* 🎉 One paper got accepted by DATE 2026 (<span style="color:orange">CCF-B</span>)! Congrats to <span style="color:blue">Hao</span>!
 - *2025.10* 🎉 One paper got accepted by ICDE 2026 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Zhenkai</span>!
 - *2025.10* 🎉 One paper got accepted by TC (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Dengke</span>!
-- *2025.10* 🎉 One paper got accepted by ICSE 2026 (<span style="color:red">CCF-A</span>)!
+- *2025.10* 🎉 One paper got accepted by ICSE 2026 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Zhujun</span>!
 - *2025.09* 🎉 One paper got accepted by NeurIPS 2025 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Jiahao</span>!
 - *2025.08* 🎉 One paper got accepted by ASE 2025 NIER!
 - *2025.07* 🎉 One paper got accepted by TMC (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Ruixuan</span>!
@@ -101,9 +102,11 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 ### 2026
 ---
+-   ``ICSE 2026`` (<span style="color:red">CCF-A</span>) Yike Huang\#, **Ming Hu\#**, Xiaohong Chen, Zhi Jin, and Shuyuan Xiao, [Modeling Like Peeling an Onion: Layerwise Analysis-Driven Automatic Behavioral Model Generation](). In Proceedings of International Conference on Software Engineering (ICSE), Accepted, 2026.
+
 -   ``KDD 2026`` (<span style="color:red">CCF-A</span>) Mingsheng Cao, Tianci Chen, **Ming Hu\***, Zhuang Qi, Yangguang Cui, Junlong Zhou, Xiaofei Xie, [Two Heads Are Better Than One: Generalized Cross-Domain Federated Learning via Dual-Prototype](). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Accepted, 2026.
 
--   ``DATE 2026`` (<span style="color:orange">CCF-B</span>) Hao Shen, **Ming Hu**, Yanxin Yang, Xiaofei Xie, and Mingsong Chen, [Enhance Language Model-based Repair for Memory-related Vulnerabilities via Knowledge- and Semantic-guided Analysis](). In Proceedings of Design, Automation and Test in Europe Conference (DATE), Accepted, 2026.
+-   ``DATE 2026`` (<span style="color:orange">CCF-B</span>) Hao Shen, **Ming Hu\***, Yanxin Yang, Xiaofei Xie, and Mingsong Chen\*, [Enhance Language Model-based Repair for Memory-related Vulnerabilities via Knowledge- and Semantic-guided Analysis](). In Proceedings of Design, Automation and Test in Europe Conference (DATE), Accepted, 2026.
 
 -   ``ICDE 2026`` (<span style="color:red">CCF-A</span>) Zhenkai Li, **Ming Hu\***, Chentao Jia, Yining Sun, Zhufeng Lu, Mingyang Yu, Yanxin Yang, Xiaofei Xie, and Mingsong Chen\*, [AdaFedRec: Adaptive Heterogeneous Federated Recommender Systems across Multi-Device Users](). In Proceedings of IEEE International Conference on Data Engineering (ICDE), Accepted, 2026.
 
@@ -119,15 +122,15 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 -   ``TMC`` (<span style="color:red">CCF-A</span>) Ruixuan Liu, **Ming Hu\***, Zeke Xia, Xiaofei Xie, Jun Xia, Pengyu Zhang, Yihao Huang, and Mingsong Chen\*. [FedGraft: Memory-Aware Heterogeneous Federated Learning via Model Grafting](https://ieeexplore.ieee.org/abstract/document/11088243).  IEEE Transactions on Mobile Computing (TMC), 2025, Accepted.
 
--   ``CCS 2025`` (<span style="color:red">CCF-A</span>) Yanxin Yang, **Ming Hu\***, Xiaofei Xie, Yue Cao, Pengyu Zhang, Yihao Huang, and Mingsong Chen\*. [FilterFL: Knowledge Filtering-based Data-Free Backdoor Defense for Federated Learning](). In Proceedings of ACM Conference on Computer and Communications Security (CCS), 2025, Accepted.
+-   ``CCS 2025`` (<span style="color:red">CCF-A</span>) Yanxin Yang, **Ming Hu\***, Xiaofei Xie, Yue Cao, Pengyu Zhang, Yihao Huang, and Mingsong Chen\*. [FilterFL: Knowledge Filtering-based Data-Free Backdoor Defense for Federated Learning](https://dl.acm.org/doi/epdf/10.1145/3719027.3744883). In Proceedings of ACM Conference on Computer and Communications Security (CCS), 2025, 3147-3161.
 
 -   ``KDD 2025`` (<span style="color:red">CCF-A</span>) Zhufeng Lu, Chentao Jia, **Ming Hu\***, Xiaofei Xie, and Mingsong Chen\*. [Gradients as An Action: Towards Communication-Efficient Federated Recommender Systems via Adaptive Action Sharing](https://dl.acm.org/doi/abs/10.1145/3711896.3736987). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 1999-2009, 2025.
 
--   ``ICML 2025`` (<span style="color:red">CCF-A</span>) Yuhang Li, Tong Liu, Yangguang Cui, **Ming Hu**, and Xiaoqiang Li. [One Arrow, Two Hawks: Sharpness-aware Minimization for Federated Learning via Global Model Trajectory](https://openreview.net/pdf?id=80mK2Mqaph). In Proceedings of International Conference on Machine Learning (ICML), 2025, Accepted.
+-   ``ICML 2025`` (<span style="color:red">CCF-A</span>) Yuhang Li, Tong Liu, Yangguang Cui, **Ming Hu**, and Xiaoqiang Li. [One Arrow, Two Hawks: Sharpness-aware Minimization for Federated Learning via Global Model Trajectory](https://openreview.net/pdf?id=80mK2Mqaph). In Proceedings of International Conference on Machine Learning (ICML), 2025.
 
--   ``TOSEM`` (<span style="color:red">CCF-A</span>) Xiaoyu Zhang, Cen Zhang, Tianlin Li, Yihao Huang, Xiaojun Jia, **Ming Hu**, Jie Zhang, Yang Liu, Shiqing Ma, and Chao Shen. [JailGuard: A Universal Detection Framework for LLM Prompt-based Attacks](https://dl.acm.org/doi/pdf/10.1145/3724393). ACM Transactions on Software Engineering and Methodology (TOSEM), 2025, Accepted.
+-   ``TOSEM`` (<span style="color:red">CCF-A</span>) Xiaoyu Zhang, Cen Zhang, Tianlin Li, Yihao Huang, Xiaojun Jia, **Ming Hu**, Jie Zhang, Yang Liu, Shiqing Ma, and Chao Shen. [JailGuard: A Universal Detection Framework for Prompt-based Attacks on LLM Systems](https://dl.acm.org/doi/pdf/10.1145/3724393). ACM Transactions on Software Engineering and Methodology (TOSEM), 2025, Accepted.
 
--   ``DAC 2025`` (<span style="color:red">CCF-A</span>) Dengke Yan, Yanxin Yang, **Ming Hu**, Xin Fu, and Mingsong Chen. [MMDFL: Multi-Model-based Decentralized Federated Learning for Resource-Constrained AIoT Systems](). In Proceedings of Design Automation Conference (DAC), 2025, Accepted.
+-   ``DAC 2025`` (<span style="color:red">CCF-A</span>) Dengke Yan, Yanxin Yang, **Ming Hu**, Xin Fu, and Mingsong Chen. [MMDFL: Multi-Model-based Decentralized Federated Learning for Resource-Constrained AIoT Systems](https://ieeexplore.ieee.org/document/11133116). In Proceedings of Design Automation Conference (DAC), 2025, 1-7.
 
 -   ``ICSE 2025`` (<span style="color:red">CCF-A</span>) Qi Guo, Xiaofei Xie, Shangqing Liu, **Ming Hu**, Xiaohong Li, and Lei Bu, [Intention is All You Need: Refining Your Code from Your Intention](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a728/251mHc6ItOM). In Proceedings of International Conference on Software Engineering (ICSE), 1127-1139, 2025.
 
