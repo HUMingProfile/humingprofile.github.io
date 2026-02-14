@@ -17,25 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-
-I am a **Research Scientist** in group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) (<font size="3px">谢肖飞</font>), **Singapore Management University**, Singapore (2024.6-). Previously, I was a Research Fellow in group of Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (<font size="3px">刘杨</font>) at Nanyang Technological University, Singapore (2022.09-2024.05).
+I will be joining East China Normal University as a **Youngth Research Professor (青年研究员)**.
+Previously, I was a Research Fellow in group of Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (<font size="3px">刘杨</font>) at Nanyang Technological University, Singapore (2022.09-2024.05) and a **Research Scientist** in group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) (<font size="3px">谢肖飞</font>), **Singapore Management University**, Singapore (2024.6-2026.02).
 I received my Bachelor's Degree in June 2017, and my Ph.D. Degree in June 2022 from East China Normal University, China (<font size="3px">华东师范大学</font>). 
-My research interest mainly include：
+My research interest mainly include:
 - Cyber Physical Systems (<font color="blue" size="3px">信息物理融合系统</font>)
+- Trustworthy and Intelligent Software (<font color="blue" size="3px">可信和智能软件</font>)
 - Federated Learning  (<font color="blue" size="3px">联邦学习</font>)
-- Software Engineering  (<font color="blue" size="3px">软件工程</font>)
 <!--- Program Analysis and Testing (<font color="blue" size="3px">程序分析和测试</font>)-->
 - Trustworthy AI (<font color="blue" size="3px">可信人工智能</font>)
 
-  I have published 40+ papers
+  I have published 50+ papers
  <a href='https://scholar.google.com/citations?user=ZTTvNb0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a> at top conferences and journals such as RTSS, DAC, KDD, ICDE, AAAI, ISSTA, FSE, TCAD, TC, ToN.
   
-**I am open to co-supervising doctoral students in the fields of Cyber-Physical Systems, Federated Learning, Software Engineering and Trustworthy AI.**
-If you are interested, please send your CV to my email (**hu.ming.work@gmail.com**).
+**I welcome students who are interested in software engineering, artificial intelligence, and security to join my research group.**
+If you are interested, please send your CV to my email (**ecnu_hm@163.com** or **hu.ming.work@gmail.com**).
+In addition, if you are interested in our research or have any questions, please feel free to contact me via email.
 
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+### 2026:
+- *2026.01* 🎉 One paper got accepted by TOSEM (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Hao</span>!
+
 ### 2025:
 - *2025.12* 🎉 One paper got accepted by ICSE 2026 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Yike</span>!
 - *2025.11* 🎉 One paper got accepted by KDD 2026 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Mingsheng</span> and <span style="color:blue">Tianci</span>!
@@ -54,20 +58,20 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 - *2025.01* 🎉 One paper got accepted by ICSE 2025 (<span style="color:red">CCF-A</span>)!
 - *2025.01* 🎉 One paper got accepted by FSE 2025 (<span style="color:red">CCF-A</span>)!
 
-### 2024:
-- *2024.12* 🎉 One paper got accepted by ICASSP 2025 (<span style="color:orange">CCF-B</span>)!
-- *2024.12* 🎉 One paper got accepted by AAAI 2025 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Zeke</span>!
-- *2024.09* 🎉 One paper got accepted by NeurIPS 2024 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Yanxin</span>!
-- *2024.08* 🎉 One paper got accepted by TMC (<span style="color:red">CCF-A</span>)!
-- *2024.07* 🎉 One paper got accepted by CODES+ISSS 2024 (Published in TCAD (<span style="color:red">CCF-A</span>))! Congrats to <span style="color:blue">Zekai</span>!
-- *2024.07* 🎉 One paper got accepted by EMSOFT 2024 (Published in TCAD (<span style="color:red">CCF-A</span>))! Congrats to <span style="color:blue">Zeke</span>!
-- *2024.06* 🎉 Our paper “Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?” won FSE2024 <span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>! Congrats to <span style="color:blue">Kaixuan</span>!
-- *2024.06* 🎉 One paper got accepted by TIFS (<span style="color:red">CCF-A</span>)!
-- *2024.05* 🎉 One paper got accepted by KDD 2024 (<span style="color:red">CCF-A</span>)!
-- *2024.05* 🎉 One paper got accepted by ToN (<span style="color:red">CCF-A</span>)!
-- *2024.04* 🎉 One paper got accepted by FSE 2024 (<span style="color:red">CCF-A</span>)!
-- *2024.03* 🎉 One paper got accepted by ISSTA 2024 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Maoyi</span>!
-- *2024.02* 🎉 One paper got accepted by DAC 2024 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Chentao</span>!
+<!--### 2024:-->
+<!--- *2024.12* 🎉 One paper got accepted by ICASSP 2025 (<span style="color:orange">CCF-B</span>)!-->
+<!--- *2024.12* 🎉 One paper got accepted by AAAI 2025 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Zeke</span>!-->
+<!--- *2024.09* 🎉 One paper got accepted by NeurIPS 2024 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Yanxin</span>!-->
+<!--- *2024.08* 🎉 One paper got accepted by TMC (<span style="color:red">CCF-A</span>)!-->
+<!--- *2024.07* 🎉 One paper got accepted by CODES+ISSS 2024 (Published in TCAD (<span style="color:red">CCF-A</span>))! Congrats to <span style="color:blue">Zekai</span>!-->
+<!--- *2024.07* 🎉 One paper got accepted by EMSOFT 2024 (Published in TCAD (<span style="color:red">CCF-A</span>))! Congrats to <span style="color:blue">Zeke</span>!-->
+<!--- *2024.06* 🎉 Our paper “Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?” won FSE2024 <span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>! Congrats to <span style="color:blue">Kaixuan</span>!-->
+<!--- *2024.06* 🎉 One paper got accepted by TIFS (<span style="color:red">CCF-A</span>)!-->
+<!--- *2024.05* 🎉 One paper got accepted by KDD 2024 (<span style="color:red">CCF-A</span>)!-->
+<!--- *2024.05* 🎉 One paper got accepted by ToN (<span style="color:red">CCF-A</span>)!-->
+<!--- *2024.04* 🎉 One paper got accepted by FSE 2024 (<span style="color:red">CCF-A</span>)!-->
+<!--- *2024.03* 🎉 One paper got accepted by ISSTA 2024 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Maoyi</span>!-->
+<!--- *2024.02* 🎉 One paper got accepted by DAC 2024 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Chentao</span>!-->
 
 <!--### 2023:-->
 <!---->
@@ -84,7 +88,8 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 <span class='anchor' id='-wx'></span>
 
 # 💻 Work Experience
-- *2024.6 - present* **Research Scientist** in the group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) at Singapore Management University, Singapore.
+<!--- *2026.2 - present* **Youngth Research Professor (青年研究员)** at East China Normal University, Shanghai, China.-->
+- *2024.6 - 2026.2* **Research Scientist** in the group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) at Singapore Management University, Singapore.
 - *2022.9 - 2024.5* **Research Fellow** in the group of Professor [Yang Liu](https://personal.ntu.edu.sg/yangliu/) at Nanyang Technological University, Singapore.
 
 <span class='anchor' id='-edu'></span>
@@ -102,6 +107,8 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 ### 2026
 ---
+-   ``TOSEM`` (<span style="color:red">CCF-A</span>) Hao Shen, **Ming Hu\***, Xiaofei Xie, Jiaye Li, and Mingsong Chen\*, [Separate Bombs from Firecrackers: Intention-guided Vulnerability Assessment via LLM](). ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted, 2026.
+
 -   ``ICSE 2026`` (<span style="color:red">CCF-A</span>) Yike Huang\#, **Ming Hu\#**, Xiaohong Chen, Zhi Jin, and Shuyuan Xiao, [Modeling Like Peeling an Onion: Layerwise Analysis-Driven Automatic Behavioral Model Generation](). In Proceedings of International Conference on Software Engineering (ICSE), Accepted, 2026.
 
 -   ``KDD 2026`` (<span style="color:red">CCF-A</span>) Mingsheng Cao, Tianci Chen, **Ming Hu\***, Zhuang Qi, Yangguang Cui, Junlong Zhou, Xiaofei Xie, [Two Heads Are Better Than One: Generalized Cross-Domain Federated Learning via Dual-Prototype](). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Accepted, 2026.
@@ -114,7 +121,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 ### 2025
 ---
--   ``TC`` (<span style="color:red">CCF-A</span>) Dengke Yan, **Ming Hu\***,Xiaofei Xie, Yanxin Yang, and Mingsong Chen\*. [S^2FL: Toward Efficient and Accurate Heterogeneous Split Federated Learning](). IEEE Transactions on Computers (TC), 2025, Accepted.
+-   ``TC`` (<span style="color:red">CCF-A</span>) Dengke Yan, **Ming Hu\***,Xiaofei Xie, Yanxin Yang, and Mingsong Chen\*. [S^2FL: Toward Efficient and Accurate Heterogeneous Split Federated Learning](https://ieeexplore.ieee.org/abstract/document/11219319/). IEEE Transactions on Computers (TC), 2025, Accepted.
 
 -   ``NeurIPS 2025`` (<span style="color:red">CCF-A</span>) Jiahao Wu, **Ming Hu\***, Yanxin Yang, Xiaofei Xie, Zekai Chen, Chenyu Song, and Mingsong Chen\*, [Rising from Ashes: Generalized Federated Learning via Dynamic Parameter Reset](https://openreview.net/pdf?id=QkqQSf1REo). In Proceedings of Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. [CODE](https://github.com/UniString/FedPhoenix)
 
@@ -122,7 +129,7 @@ If you are interested, please send your CV to my email (**hu.ming.work@gmail.com
 
 -   ``TMC`` (<span style="color:red">CCF-A</span>) Ruixuan Liu, **Ming Hu\***, Zeke Xia, Xiaofei Xie, Jun Xia, Pengyu Zhang, Yihao Huang, and Mingsong Chen\*. [FedGraft: Memory-Aware Heterogeneous Federated Learning via Model Grafting](https://ieeexplore.ieee.org/abstract/document/11088243).  IEEE Transactions on Mobile Computing (TMC), 2025, Accepted.
 
--   ``CCS 2025`` (<span style="color:red">CCF-A</span>) Yanxin Yang, **Ming Hu\***, Xiaofei Xie, Yue Cao, Pengyu Zhang, Yihao Huang, and Mingsong Chen\*. [FilterFL: Knowledge Filtering-based Data-Free Backdoor Defense for Federated Learning](https://dl.acm.org/doi/epdf/10.1145/3719027.3744883). In Proceedings of ACM Conference on Computer and Communications Security (CCS), 2025, 3147-3161.
+-   ``CCS 2025`` (<span style="color:red">CCF-A</span>) Yanxin Yang, **Ming Hu\***, Xiaofei Xie, Yue Cao, Pengyu Zhang, Yihao Huang, and Mingsong Chen\*. [FilterFL: Knowledge Filtering-based Data-Free Backdoor Defense for Federated Learning](https://dl.acm.org/doi/epdf/10.1145/3719027.3744883). In Proceedings of ACM Conference on Computer and Communications Security (CCS), 2025, 3147-3161. [CODE](https://github.com/easywood0204/FilterFL)
 
 -   ``KDD 2025`` (<span style="color:red">CCF-A</span>) Zhufeng Lu, Chentao Jia, **Ming Hu\***, Xiaofei Xie, and Mingsong Chen\*. [Gradients as An Action: Towards Communication-Efficient Federated Recommender Systems via Adaptive Action Sharing](https://dl.acm.org/doi/abs/10.1145/3711896.3736987). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 1999-2009, 2025.
 
