@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 I will be joining East China Normal University as a **Youngth Research Professor (青年研究员)**.
-Previously, I was a Research Fellow in group of Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (<font size="3px">刘杨</font>) at Nanyang Technological University, Singapore (2022.09-2024.05) and a **Research Scientist** in group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) (<font size="3px">谢肖飞</font>), **Singapore Management University**, Singapore (2024.6-2026.02).
+Previously, I was a Research Fellow in group of Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (<font size="3px">刘杨</font>) at Nanyang Technological University, Singapore (2022.09-2024.05) and a Research Scientist in group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) (<font size="3px">谢肖飞</font>), Singapore Management University, Singapore (2024.6-2026.02).
 I received my Bachelor's Degree in June 2017, and my Ph.D. Degree in June 2022 from East China Normal University, China (<font size="3px">华东师范大学</font>). 
 My research interest mainly include:
 - Cyber Physical Systems (<font color="blue" size="3px">信息物理融合系统</font>)
@@ -27,7 +27,8 @@ My research interest mainly include:
 <!--- Program Analysis and Testing (<font color="blue" size="3px">程序分析和测试</font>)-->
 - Trustworthy AI (<font color="blue" size="3px">可信人工智能</font>)
 
-  I have published 50+ papers
+
+I have published 50+ papers
  <a href='https://scholar.google.com/citations?user=ZTTvNb0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a> at top conferences and journals such as RTSS, DAC, KDD, ICDE, AAAI, ISSTA, FSE, TCAD, TC, ToN.
   
 **I welcome students who are interested in software engineering, artificial intelligence, and security to join my research group.**
