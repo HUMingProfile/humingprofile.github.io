@@ -22,14 +22,15 @@ Previously, I was a Research Fellow in group of Prof. [Yang Liu](https://persona
 I received my Bachelor's Degree in June 2017, and my Ph.D. Degree in June 2022 from East China Normal University, China (<font size="3px">华东师范大学</font>). 
 My research interest mainly include:
 - Cyber Physical Systems (<font color="blue" size="3px">信息物理融合系统</font>)
-- Trustworthy and Intelligent Software (<font color="blue" size="3px">可信和智能软件</font>)
+- Trustworthy Software (<font color="blue" size="3px">可信软件</font>)
+- Intelligent Software (<font color="blue" size="3px">智能软件</font>)
 - Federated Learning  (<font color="blue" size="3px">联邦学习</font>)
 <!--- Program Analysis and Testing (<font color="blue" size="3px">程序分析和测试</font>)-->
-- Trustworthy AI (<font color="blue" size="3px">可信人工智能</font>)
+<!--- Trustworthy AI (<font color="blue" size="3px">可信人工智能</font>)-->
 
 
 I have published 50+ papers
- <a href='https://scholar.google.com/citations?user=ZTTvNb0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a> at top conferences and journals such as RTSS, DAC, KDD, ICDE, AAAI, ISSTA, FSE, TCAD, TC, ToN.
+ <a href='https://scholar.google.com/citations?user=ZTTvNb0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a> at top conferences and journals such as RTSS, DAC, KDD, ICDE, AAAI, ICSE, ISSTA, FSE, TCAD, TC, ToN.
   
 **I welcome students who are interested in software engineering, artificial intelligence, and security to join my research group.**
 If you are interested, please send your CV to my email (**ecnu_hm@163.com** or **hu.ming.work@gmail.com**).
@@ -39,6 +40,8 @@ In addition, if you are interested in our research or have any questions, please
 
 # 🔥 News
 ### 2026:
+- *2026.02* 🎉 One paper got accepted by CVPR 2026 (<span style="color:red">CCF-A</span>)!
+- *2026.02* 🎉 One paper got accepted by TMC (<span style="color:red">CCF-A</span>)!
 - *2026.01* 🎉 One paper got accepted by TOSEM (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Hao</span>!
 
 ### 2025:
@@ -89,7 +92,7 @@ In addition, if you are interested in our research or have any questions, please
 <span class='anchor' id='-wx'></span>
 
 # 💻 Work Experience
-<!--- *2026.2 - present* **Youngth Research Professor (青年研究员)** at East China Normal University, Shanghai, China.-->
+<!--- *2026.3 - present* **Youngth Research Professor (青年研究员)** at East China Normal University, Shanghai, China.-->
 - *2024.6 - 2026.2* **Research Scientist** in the group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) at Singapore Management University, Singapore.
 - *2022.9 - 2024.5* **Research Fellow** in the group of Professor [Yang Liu](https://personal.ntu.edu.sg/yangliu/) at Nanyang Technological University, Singapore.
 
@@ -108,6 +111,10 @@ In addition, if you are interested in our research or have any questions, please
 
 ### 2026
 ---
+-   ``CVPR 2026`` (<span style="color:red">CCF-A</span>) Chenyang Li, Wenbing Tang, Yihao Huang, Simon Sinong Zhan, **Ming Hu**, Xiaojun Jia, and Yang Liu, [Shedding Light on VLN Robustness: A Black-box Framework for Indoor Lighting-based Adversarial Attack](). In Proceedings of Computer Vision and Pattern Recognition (CVPR), Accepted, 2026.
+
+-   ``TMC`` (<span style="color:red">CCF-A</span>) Yizhou Shi, Qianpiao Ma, Yan Xu, Junlong Zhou, **Ming Hu**, Yunming Liao, and Hongli Xu, [DySTop: Dynamic Staleness Control and Topology Construction for Asynchronous Decentralized Federated Learning](). IEEE Transactions on Mobile Computing (TMC), Early Access, 2026.
+
 -   ``TOSEM`` (<span style="color:red">CCF-A</span>) Hao Shen, **Ming Hu\***, Xiaofei Xie, Jiaye Li, and Mingsong Chen\*, [Separate Bombs from Firecrackers: Intention-guided Vulnerability Assessment via LLM](). ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted, 2026.
 
 -   ``ICSE 2026`` (<span style="color:red">CCF-A</span>) Yike Huang\#, **Ming Hu\#**, Xiaohong Chen, Zhi Jin, and Shuyuan Xiao, [Modeling Like Peeling an Onion: Layerwise Analysis-Driven Automatic Behavioral Model Generation](). In Proceedings of International Conference on Software Engineering (ICSE), Accepted, 2026.
