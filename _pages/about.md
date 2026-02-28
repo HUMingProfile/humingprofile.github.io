@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I will be joining East China Normal University as a **Youngth Research Professor (青年研究员)**.
+I am a **Youngth Research Professor (青年研究员)** at Software Engineering Institue, East China Normal University, China (<font size="3px">华东师范大学</font>).
 Previously, I was a Research Fellow in group of Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (<font size="3px">刘杨</font>) at Nanyang Technological University, Singapore (2022.09-2024.05) and a Research Scientist in group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) (<font size="3px">谢肖飞</font>), Singapore Management University, Singapore (2024.6-2026.02).
 I received my Bachelor's Degree in June 2017, and my Ph.D. Degree in June 2022 from East China Normal University, China (<font size="3px">华东师范大学</font>). 
 My research interest mainly include:
@@ -33,7 +33,7 @@ I have published 50+ papers
  <a href='https://scholar.google.com/citations?user=ZTTvNb0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a> at top conferences and journals such as RTSS, DAC, KDD, ICDE, AAAI, ICSE, ISSTA, FSE, TCAD, TC, ToN.
   
 **I welcome students who are interested in software engineering, artificial intelligence, and security to join my research group.**
-If you are interested, please send your CV to my email (**ecnu_hm@163.com** or **hu.ming.work@gmail.com**).
+If you are interested, please send your CV to my email (**ecnu_hm@163.com** or **hu.ming.work@gmail.com**) or my reserch group email (**ecnu_tisslab@163.com**).
 In addition, if you are interested in our research or have any questions, please feel free to contact me via email.
 
 <span class='anchor' id='-news'></span>
@@ -92,7 +92,7 @@ In addition, if you are interested in our research or have any questions, please
 <span class='anchor' id='-wx'></span>
 
 # 💻 Work Experience
-<!--- *2026.3 - present* **Youngth Research Professor (青年研究员)** at East China Normal University, Shanghai, China.-->
+- *2026.3 - present* **Youngth Research Professor (青年研究员)** at East China Normal University, Shanghai, China.
 - *2024.6 - 2026.2* **Research Scientist** in the group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) at Singapore Management University, Singapore.
 - *2022.9 - 2024.5* **Research Fellow** in the group of Professor [Yang Liu](https://personal.ntu.edu.sg/yangliu/) at Nanyang Technological University, Singapore.
 
@@ -239,14 +239,18 @@ In addition, if you are interested in our research or have any questions, please
 # 🏅 Honors and Awards
 - *2024* Outstanding Doctoral Dissertation Award, CCF Embedded Systems Technical Committee
 - *2024* ACM SIGSOFT Distinguished Paper Award, FSE2024
-- *2022* Outstanding Graduates, Shanghai
-- *2021* National Scholarship
-- *2021* Excellent Student of ECNU
-- *2018* Excellent Student Cadres of ECNU
+<!--- *2022* Outstanding Graduates, Shanghai-->
+<!--- *2021* National Scholarship-->
+<!--- *2021* Excellent Student of ECNU-->
+<!--- *2018* Excellent Student Cadres of ECNU-->
 
 <span class='anchor' id='-proj'></span>
 
-# 🏛️ Reserch Projects
-- *2023-2024*, (<span style="color:red">Co-PI</span>) Efficient and Trustworthy Federated Learning System Design, MoE International Joint Lab of Trustworthy Software Open Research Project, 13K RMB
-- *2020-2022*, (<span style="color:red">PI</span>) Design Automation for Cyber-Physical Systems, ECNU Academic Innovation Promotion Program for Excellent Doctoral Students, 50K RMB
+# 🏛️ Reserch Services
+
+- Conference PC or Reviewer: ICML, NeurIPS, ICLR, KDD, WWW, ACL, MM, CVPR, ECCV, Internetware, ...
+
+- Journal Reviewer: TCAD, TMC, TSC, TDSC, TIFS, JSA, ...
+<!--- *2023-2024*, (<span style="color:red">Co-PI</span>) Efficient and Trustworthy Federated Learning System Design, MoE International Joint Lab of Trustworthy Software Open Research Project, 13K RMB-->
+<!--- *2020-2022*, (<span style="color:red">PI</span>) Design Automation for Cyber-Physical Systems, ECNU Academic Innovation Promotion Program for Excellent Doctoral Students, 50K RMB-->
 
