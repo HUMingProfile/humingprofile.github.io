@@ -33,7 +33,7 @@ I have published 50+ papers
  <a href='https://scholar.google.com/citations?user=ZTTvNb0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a> at top conferences and journals such as RTSS, DAC, KDD, ICDE, AAAI, ICSE, ISSTA, FSE, TCAD, TC, ToN.
   
 **I welcome students who are interested in software engineering, artificial intelligence, and security to join my research group.**
-If you are interested, please send your CV to my email (**ecnu_hm@163.com** or **hu.ming.work@gmail.com**) or my reserch group email (**ecnu_tisslab@163.com**).
+If you are interested, please send your CV to my email (**mhu@sei.ecnu.edu.cn**).
 In addition, if you are interested in our research or have any questions, please feel free to contact me via email.
 
 <span class='anchor' id='-news'></span>
@@ -248,7 +248,7 @@ In addition, if you are interested in our research or have any questions, please
 
 # 🏛️ Reserch Services
 
-- Conference PC or Reviewer: ICML, NeurIPS, ICLR, KDD, WWW, ACL, MM, CVPR, ECCV, Internetware, ...
+- Conference PC or Reviewer: ICML, NeurIPS, ICLR, KDD, WWW, ACL, MM, CVPR, AAAI, ECCV, Internetware, ...
 
 - Journal Reviewer: TCAD, TMC, TSC, TDSC, TIFS, JSA, ...
 <!--- *2023-2024*, (<span style="color:red">Co-PI</span>) Efficient and Trustworthy Federated Learning System Design, MoE International Joint Lab of Trustworthy Software Open Research Project, 13K RMB-->
