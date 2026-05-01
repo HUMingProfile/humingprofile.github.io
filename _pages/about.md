@@ -21,12 +21,12 @@ I am a **Youngth Research Professor (青年研究员)** at Software Engineering 
 Previously, I was a Research Fellow in group of Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (<font size="3px">刘杨</font>) at Nanyang Technological University, Singapore (2022.09-2024.05) and a Research Scientist in group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) (<font size="3px">谢肖飞</font>), Singapore Management University, Singapore (2024.6-2026.02).
 I received my Bachelor's Degree in June 2017, and my Ph.D. Degree in June 2022 from East China Normal University, China (<font size="3px">华东师范大学</font>). 
 My research interest mainly include:
-- Cyber Physical Systems (<font color="blue" size="3px">信息物理融合系统</font>)
+<!--- Cyber Physical Systems (<font color="blue" size="3px">信息物理融合系统</font>)-->
 - Trustworthy Software (<font color="blue" size="3px">可信软件</font>)
-- Intelligent Software (<font color="blue" size="3px">智能软件</font>)
-- Federated Learning  (<font color="blue" size="3px">联邦学习</font>)
+- Intelligent System (<font color="blue" size="3px">智能系统</font>)
+<!--- Federated Learning  (<font color="blue" size="3px">联邦学习</font>)-->
 <!--- Program Analysis and Testing (<font color="blue" size="3px">程序分析和测试</font>)-->
-<!--- Trustworthy AI (<font color="blue" size="3px">可信人工智能</font>)-->
+- Trustworthy AI (<font color="blue" size="3px">可信人工智能</font>)
 
 
 I have published 50+ papers
@@ -40,6 +40,9 @@ In addition, if you are interested in our research or have any questions, please
 
 # 🔥 News
 ### 2026:
+- *2026.05* 🎉 One paper got accepted by ICML 2026 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Mingsheng</span>! and <span style="color:blue">Hongliang</span>!
+- *2026.04* 🎉 One paper got accepted by ISSTA 2026 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Hao</span>!
+- *2026.04* 🎉 One paper got accepted by ACL 2026 Findings!
 - *2026.02* 🎉 One paper got accepted by CVPR 2026 (<span style="color:red">CCF-A</span>)!
 - *2026.02* 🎉 One paper got accepted by TMC (<span style="color:red">CCF-A</span>)!
 - *2026.01* 🎉 One paper got accepted by TOSEM (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Hao</span>!
@@ -111,6 +114,16 @@ In addition, if you are interested in our research or have any questions, please
 
 ### 2026
 ---
+-   ``ICML 2026`` (<span style="color:red">CCF-A</span>) Mingsheng Cao, Hongliang Chen, **Ming Hu\***, Fei Gao, Qiaolong Ding, Wenke Huang, Xiaofei Xie, and Junlong Zhou, [Required Spine Optional Limbs: Heterogeneous Federated Learning via Backbone-sharing and Activation-guided Selection](). In Proceedings of International Conference on Machine Learning (ICML), Accepted, 2026. (<span style="color:red">Spotlight</span>)
+
+-   ``SSI`` (Chinese-list CCF-A) Yuhan Zhi, Qiang Hu, Xiaofei Xie, Longtian Wang, Ming Hu, Lei Ma, Xiaohong Guan, Chao Shen, [Data-selection-based model repair for federated learning](). SCIENTIA SINICA Informationis, Accepted, 2026.
+ 
+-   ``TASE 2026`` (<span style="color:green">CCF-C</span>) Boli Huang, Tianlin Li, **Ming Hu**, Ziming Zhao, Mingsong Chen, [Learn by Analogy: Distribution-aware Fuzz Testing for DNNs via Cross-Modal Generation](). In Proceedings of Theoretical Aspects of Software Engineering Conference (TASE), 2026.
+
+-   ``ISSTA 2026`` (<span style="color:red">CCF-A</span>) Hao Shen, **Ming Hu\***, Jiaye Li, Xiaofei Xie, and Mingsong Chen\*, [Silence of Commit Messages: An Empirical Study for Vulnerability Commit Message Generation Using Large Language Models](). In Proceedings of SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026), Accepted, 2026.
+
+-   ``ACL 2026 Findings`` Wenru Xu, Peixuan Xu, Ziqi Yang, **Ming Hu**, Zihui Wang, Jianzhong Qi, Rongshan Yu, Xiaoliang Fan, and Cheng Wang, [SPIDE: Serial and Parallel Intertwined Speculative Decoding](). In Proceedings of Annual Meeting of the Association for Computational Linguistics (ACL 2026), Accepted, 2026.
+
 -   ``CVPR 2026`` (<span style="color:red">CCF-A</span>) Chenyang Li, Wenbing Tang, Yihao Huang, Simon Sinong Zhan, **Ming Hu**, Xiaojun Jia, and Yang Liu, [Shedding Light on VLN Robustness: A Black-box Framework for Indoor Lighting-based Adversarial Attack](). In Proceedings of Computer Vision and Pattern Recognition (CVPR), Accepted, 2026.
 
 -   ``TMC`` (<span style="color:red">CCF-A</span>) Yizhou Shi, Qianpiao Ma, Yan Xu, Junlong Zhou, **Ming Hu**, Yunming Liao, and Hongli Xu, [DySTop: Dynamic Staleness Control and Topology Construction for Asynchronous Decentralized Federated Learning](). IEEE Transactions on Mobile Computing (TMC), Early Access, 2026.
