@@ -116,7 +116,7 @@ In addition, if you are interested in our research or have any questions, please
 ---
 -   ``ICML 2026`` (<span style="color:red">CCF-A</span>) Mingsheng Cao, Hongliang Chen, **Ming Hu\***, Fei Gao, Qiaolong Ding, Wenke Huang, Xiaofei Xie, and Junlong Zhou, [Required Spine Optional Limbs: Heterogeneous Federated Learning via Backbone-sharing and Activation-guided Selection](). In Proceedings of International Conference on Machine Learning (ICML), Accepted, 2026. (<span style="color:red">Spotlight</span>)
 
--   ``SSI`` (Chinese-list CCF-A) Yuhan Zhi, Qiang Hu, Xiaofei Xie, Longtian Wang, Ming Hu, Lei Ma, Xiaohong Guan, Chao Shen, [Data-selection-based model repair for federated learning](). SCIENTIA SINICA Informationis, Accepted, 2026.
+-   ``SSI`` (Chinese-list CCF-A) Yuhan Zhi, Qiang Hu, Xiaofei Xie, Longtian Wang, **Ming Hu**, Lei Ma, Xiaohong Guan, Chao Shen, [Data-selection-based model repair for federated learning](). SCIENTIA SINICA Informationis, Accepted, 2026.
  
 -   ``TASE 2026`` (<span style="color:green">CCF-C</span>) Boli Huang, Tianlin Li, **Ming Hu**, Ziming Zhao, Mingsong Chen, [Learn by Analogy: Distribution-aware Fuzz Testing for DNNs via Cross-Modal Generation](). In Proceedings of Theoretical Aspects of Software Engineering Conference (TASE), 2026.
 
@@ -142,7 +142,7 @@ In addition, if you are interested in our research or have any questions, please
 
 ### 2025
 ---
--   ``TC`` (<span style="color:red">CCF-A</span>) Dengke Yan, **Ming Hu\***,Xiaofei Xie, Yanxin Yang, and Mingsong Chen\*. [S^2FL: Toward Efficient and Accurate Heterogeneous Split Federated Learning](https://ieeexplore.ieee.org/abstract/document/11219319/). IEEE Transactions on Computers (TC), 2025, Accepted.
+-   ``TC`` (<span style="color:red">CCF-A</span>) Dengke Yan, **Ming Hu\***, Xiaofei Xie, Yanxin Yang, and Mingsong Chen\*. [S^2FL: Toward Efficient and Accurate Heterogeneous Split Federated Learning](https://ieeexplore.ieee.org/abstract/document/11219319/). IEEE Transactions on Computers (TC), 2025, Accepted.
 
 -   ``NeurIPS 2025`` (<span style="color:red">CCF-A</span>) Jiahao Wu, **Ming Hu\***, Yanxin Yang, Xiaofei Xie, Zekai Chen, Chenyu Song, and Mingsong Chen\*, [Rising from Ashes: Generalized Federated Learning via Dynamic Parameter Reset](https://openreview.net/pdf?id=QkqQSf1REo). In Proceedings of Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. [CODE](https://github.com/UniString/FedPhoenix)
 
