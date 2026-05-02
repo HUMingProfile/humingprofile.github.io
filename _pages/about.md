@@ -120,9 +120,9 @@ In addition, if you are interested in our research or have any questions, please
  
 -   ``TASE 2026`` (<span style="color:green">CCF-C</span>) Boli Huang, Tianlin Li, **Ming Hu**, Ziming Zhao, Mingsong Chen, [Learn by Analogy: Distribution-aware Fuzz Testing for DNNs via Cross-Modal Generation](). In Proceedings of Theoretical Aspects of Software Engineering Conference (TASE), 2026.
 
--   ``ISSTA 2026`` (<span style="color:red">CCF-A</span>) Hao Shen, **Ming Hu\***, Jiaye Li, Xiaofei Xie, and Mingsong Chen\*, [Silence of Commit Messages: An Empirical Study for Vulnerability Commit Message Generation Using Large Language Models](). In Proceedings of SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026), Accepted, 2026.
+-   ``ISSTA 2026`` (<span style="color:red">CCF-A</span>) Hao Shen, **Ming Hu\***, Jiaye Li, Xiaofei Xie, and Mingsong Chen\*, [Silence of Commit Messages: An Empirical Study for Vulnerability Commit Message Generation Using Large Language Models](). In Proceedings of SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Accepted, 2026.
 
--   ``ACL 2026 Findings`` Wenru Xu, Peixuan Xu, Ziqi Yang, **Ming Hu**, Zihui Wang, Jianzhong Qi, Rongshan Yu, Xiaoliang Fan, and Cheng Wang, [SPIDE: Serial and Parallel Intertwined Speculative Decoding](). In Proceedings of Annual Meeting of the Association for Computational Linguistics (ACL 2026), Accepted, 2026.
+-   ``ACL 2026 Findings`` Wenru Xu, Peixuan Xu, Ziqi Yang, **Ming Hu**, Zihui Wang, Jianzhong Qi, Rongshan Yu, Xiaoliang Fan, and Cheng Wang, [SPIDE: Serial and Parallel Intertwined Speculative Decoding](). In Proceedings of Annual Meeting of the Association for Computational Linguistics (ACL), Accepted, 2026.
 
 -   ``CVPR 2026`` (<span style="color:red">CCF-A</span>) Chenyang Li, Wenbing Tang, Yihao Huang, Simon Sinong Zhan, **Ming Hu**, Xiaojun Jia, and Yang Liu, [Shedding Light on VLN Robustness: A Black-box Framework for Indoor Lighting-based Adversarial Attack](). In Proceedings of Computer Vision and Pattern Recognition (CVPR), Accepted, 2026.
 
