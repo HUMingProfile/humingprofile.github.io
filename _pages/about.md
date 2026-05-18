@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I am a **Youngth Research Professor (青年研究员)** at Software Engineering Institue, East China Normal University, China (<font size="3px">华东师范大学</font>).
+I am a **Research Professor** at Software Engineering Institue, East China Normal University, China (<font size="3px">华东师范大学</font>).
 Previously, I was a Research Fellow in group of Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (<font size="3px">刘杨</font>) at Nanyang Technological University, Singapore (2022.09-2024.05) and a Research Scientist in group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) (<font size="3px">谢肖飞</font>), Singapore Management University, Singapore (2024.6-2026.02).
 I received my Bachelor's Degree in June 2017, and my Ph.D. Degree in June 2022 from East China Normal University, China (<font size="3px">华东师范大学</font>). 
 My research interest mainly include:
