@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 I am a **Research Professor** at Software Engineering Institue, East China Normal University, China (<font size="3px">华东师范大学</font>).
+I was awarded the NSFC Excellent Young Scientists Fund Program (Overseas) (海外优青).
 Previously, I was a Research Fellow in group of Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (<font size="3px">刘杨</font>) at Nanyang Technological University, Singapore (2022.09-2024.05) and a Research Scientist in group of Assistant Professor [Xiaofei Xie](https://xiaofeixie.bitbucket.io/) (<font size="3px">谢肖飞</font>), Singapore Management University, Singapore (2024.6-2026.02).
 I received my Bachelor's Degree in June 2017, and my Ph.D. Degree in June 2022 from East China Normal University, China (<font size="3px">华东师范大学</font>). 
 My research interest mainly include:
@@ -29,7 +30,7 @@ My research interest mainly include:
 - Trustworthy AI (<font color="blue" size="3px">可信人工智能</font>)
 
 
-I have published 50+ papers
+I have published 60+ papers
  <a href='https://scholar.google.com/citations?user=ZTTvNb0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a> at top conferences and journals such as RTSS, DAC, KDD, ICDE, AAAI, ICSE, ISSTA, FSE, TCAD, TC, ToN.
   
 **I welcome students who are interested in software engineering, artificial intelligence, and security to join my research group.**
@@ -40,6 +41,11 @@ In addition, if you are interested in our research or have any questions, please
 
 # 🔥 News
 ### 2026:
+- *2026.08* 🎉 One paper got accepted by IoTJ (SCI Q1)!
+- *2026.07* 🎉 One paper got accepted by npj Digital Medicine (SCI Q1, IF 18.2)!
+- *2026.07* 🎉 One paper got accepted by MM 2026 (<span style="color:red">CCF-A</span>)!
+- *2026.06* 🎉 One paper got accepted by ASE 2026 (<span style="color:red">CCF-A</span>)!
+- *2026.06* 🎉 One paper got accepted by TCE (SCI Q1)!
 - *2026.05* 🎉 One paper got accepted by ICML 2026 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Mingsheng</span>! and <span style="color:blue">Hongliang</span>!
 - *2026.04* 🎉 One paper got accepted by ISSTA 2026 (<span style="color:red">CCF-A</span>)! Congrats to <span style="color:blue">Hao</span>!
 - *2026.04* 🎉 One paper got accepted by ACL 2026 Findings!
@@ -114,6 +120,16 @@ In addition, if you are interested in our research or have any questions, please
 
 ### 2026
 ---
+-   ``IoTJ`` (SCI Q1) Jiamei Li, Haizhou Wang, Jining Chen, **Ming Hu**, Yangguang Cui, and Junlong Zhou, [Information Scenario-Aware Incentive Mechanisms for Federated Learning Using Game Theory and Reinforcement Learningn](). IEEE Internet of Things Journal, Accepted, 2026. 
+
+-   ``npj Digital Medicine`` (SCI Q1, IF 18.2) Anran Li, Yuanyuan Chen, Wenjun Long, Yu Yin, Yan Hu, Hyunjae Kim, Weipeng Zhou, Yujia Zhou, Hongyi Peng, Yang Ren, Xuguang Ai, Zhenyue Qin, **Ming Hu**, Xiaoxiao Li, Han Yu, Yih-Chung Tham, Lucila Ohno-Machado, Hua Xu, and Qingyu Chen1, [Toward Federated Large Language Models in Medicine: A Parameter- Efficient Framework for Privacy-Preserving, Multi-Institutional Adaptation](). npj Digital Medicine, Accepted, 2026.
+
+-   ``MM 2026`` (<span style="color:red">CCF-A</span>) Xianfei Cai, Yanxin Yang, **Ming Hu**, Hao Shen, Yuejun Jiao, Wei Jiang, and Mingsong Chen, [Suit the Remedy to the Case: Precise Backdoor Elimination for Text-to-Image Diffusion Models via Model Editing](). In Proceedings of ACM Multimedia (MM), Accepted, 2026. 
+
+-   ``ASE 2026`` (<span style="color:red">CCF-A</span>) Di Yang, Xinou Xie, Xiuwen Yang, **Ming Hu**, Yihao Huang, Yueling Zhang, Weikai Miao, Ting Su, Chengcheng Wan, and Geguang Pu, [Clarity Is Not Assumed: Understanding LLM-Based Code Generation under Ambiguous Requirements](). In Proceedings of IEEE/ACM International Conference on Automated Software Engineering (ASE), Accepted, 2026. 
+
+-   ``TCE`` (SCI Q1) Binbin Huang, Lingbin Wang, **Ming Hu**, Jin Fan, Yishan Chen, Guanjie Cheng, Shangguang Wang, and Shuiguang Deng, [Jointly optimizing global generalization and local personalization via prompt fusion for Heterogeneous Consumer Electronics](). IEEE Transactions on Consumer Electronics, Accepted, 2026. 
+
 -   ``ICML 2026`` (<span style="color:red">CCF-A</span>) Mingsheng Cao, Hongliang Chen, **Ming Hu\***, Fei Gao, Qiaolong Ding, Wenke Huang, Xiaofei Xie, and Junlong Zhou, [Required Spine Optional Limbs: Heterogeneous Federated Learning via Backbone-sharing and Activation-guided Selection](). In Proceedings of International Conference on Machine Learning (ICML), Accepted, 2026. (<span style="color:red">Spotlight</span>)
 
 -   ``SSI`` (Chinese-list CCF-A) Yuhan Zhi, Qiang Hu, Xiaofei Xie, Longtian Wang, **Ming Hu**, Lei Ma, Xiaohong Guan, Chao Shen, [Data-selection-based model repair for federated learning](). SCIENTIA SINICA Informationis, Accepted, 2026.
