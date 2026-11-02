@@ -41,6 +41,8 @@ In addition, if you are interested in our research or have any questions, please
 
 # 🔥 News
 ### 2026:
+- *2026.09* 🎉 One paper got accepted by NeurIPS 2026 (<span style="color:red">CCF-A</span>)!
+- *2024.06* 🎉 Our paper “Clarity Is Not Assumed: Understanding LLM-Based Code Generation under Ambiguous Requirements” won ASE 2026 <span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>!
 - *2026.08* 🎉 One paper got accepted by IoTJ (SCI Q1)!
 - *2026.07* 🎉 One paper got accepted by npj Digital Medicine (SCI Q1, IF 18.2)!
 - *2026.07* 🎉 One paper got accepted by MM 2026 (<span style="color:red">CCF-A</span>)!
@@ -120,51 +122,53 @@ In addition, if you are interested in our research or have any questions, please
 
 ### 2026
 ---
+-   ``NeurIPS 2026`` (<span style="color:red">CCF-A</span>)   Wenwen He, Wenke Huang, Yiyan Qi, He Li, **Ming Hu**, Yi Liu, and Guansong Pang, [FLoRA-Chef: Making A Good LoRA Recipe in Federated Generalization](). In Proceedings of Annual Conference on Neural Information Processing Systems (NeurIPS), Accepted, 2026. 
+
 -   ``IoTJ`` (SCI Q1) Jiamei Li, Haizhou Wang, Jining Chen, **Ming Hu**, Yangguang Cui, and Junlong Zhou, [Information Scenario-Aware Incentive Mechanisms for Federated Learning Using Game Theory and Reinforcement Learningn](). IEEE Internet of Things Journal, Accepted, 2026. 
 
 -   ``npj Digital Medicine`` (SCI Q1, IF 18.2) Anran Li, Yuanyuan Chen, Wenjun Long, Yu Yin, Yan Hu, Hyunjae Kim, Weipeng Zhou, Yujia Zhou, Hongyi Peng, Yang Ren, Xuguang Ai, Zhenyue Qin, **Ming Hu**, Xiaoxiao Li, Han Yu, Yih-Chung Tham, Lucila Ohno-Machado, Hua Xu, and Qingyu Chen1, [Toward Federated Large Language Models in Medicine: A Parameter- Efficient Framework for Privacy-Preserving, Multi-Institutional Adaptation](). npj Digital Medicine, Accepted, 2026.
 
 -   ``MM 2026`` (<span style="color:red">CCF-A</span>) Xianfei Cai, Yanxin Yang, **Ming Hu**, Hao Shen, Yuejun Jiao, Wei Jiang, and Mingsong Chen, [Suit the Remedy to the Case: Precise Backdoor Elimination for Text-to-Image Diffusion Models via Model Editing](). In Proceedings of ACM Multimedia (MM), Accepted, 2026. 
 
--   ``ASE 2026`` (<span style="color:red">CCF-A</span>) Di Yang, Xinou Xie, Xiuwen Yang, **Ming Hu**, Yihao Huang, Yueling Zhang, Weikai Miao, Ting Su, Chengcheng Wan, and Geguang Pu, [Clarity Is Not Assumed: Understanding LLM-Based Code Generation under Ambiguous Requirements](). In Proceedings of IEEE/ACM International Conference on Automated Software Engineering (ASE), Accepted, 2026. 
+-   ``ASE 2026`` (<span style="color:red">CCF-A</span>) Di Yang, Xinou Xie, Xiuwen Yang, **Ming Hu**, Yihao Huang, Yueling Zhang, Weikai Miao, Ting Su, Chengcheng Wan, and Geguang Pu, [Clarity Is Not Assumed: Understanding LLM-Based Code Generation under Ambiguous Requirements](https://dl.acm.org/doi/pdf/10.1145/3832783.3834403). In Proceedings of IEEE/ACM International Conference on Automated Software Engineering (ASE), 916-928, 2026. <span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>
 
--   ``TCE`` (SCI Q1) Binbin Huang, Lingbin Wang, **Ming Hu**, Jin Fan, Yishan Chen, Guanjie Cheng, Shangguang Wang, and Shuiguang Deng, [Jointly optimizing global generalization and local personalization via prompt fusion for Heterogeneous Consumer Electronics](). IEEE Transactions on Consumer Electronics, Accepted, 2026. 
+-   ``TCE`` (SCI Q1) Binbin Huang, Lingbin Wang, **Ming Hu**, Jin Fan, Yishan Chen, Guanjie Cheng, Shangguang Wang, and Shuiguang Deng, [Jointly optimizing global generalization and local personalization via prompt fusion for Heterogeneous Consumer Electronics](https://ieeexplore.ieee.org/abstract/document/11534834). IEEE Transactions on Consumer Electronics, Accepted, 2026. 
 
--   ``ICML 2026`` (<span style="color:red">CCF-A</span>) Mingsheng Cao, Hongliang Chen, **Ming Hu\***, Fei Gao, Qiaolong Ding, Wenke Huang, Xiaofei Xie, and Junlong Zhou, [Required Spine Optional Limbs: Heterogeneous Federated Learning via Backbone-sharing and Activation-guided Selection](). In Proceedings of International Conference on Machine Learning (ICML), Accepted, 2026. (<span style="color:red">Spotlight</span>)
+-   ``ICML 2026`` (<span style="color:red">CCF-A</span>) Mingsheng Cao, Hongliang Chen, **Ming Hu\***, Fei Gao, Qiaolong Ding, Wenke Huang, Xiaofei Xie, and Junlong Zhou, [Required Spine Optional Limbs: Heterogeneous Federated Learning via Backbone-sharing and Activation-guided Selection](https://openreview.net/pdf?id=8LZfyxIQdO). In Proceedings of International Conference on Machine Learning (ICML), Accepted, 2026. (<span style="color:red">Spotlight</span>)
 
 -   ``SSI`` (Chinese-list CCF-A) Yuhan Zhi, Qiang Hu, Xiaofei Xie, Longtian Wang, **Ming Hu**, Lei Ma, Xiaohong Guan, Chao Shen, [Data-selection-based model repair for federated learning](). SCIENTIA SINICA Informationis, Accepted, 2026.
  
--   ``TASE 2026`` (<span style="color:green">CCF-C</span>) Boli Huang, Tianlin Li, **Ming Hu**, Ziming Zhao, Mingsong Chen, [Learn by Analogy: Distribution-aware Fuzz Testing for DNNs via Cross-Modal Generation](). In Proceedings of Theoretical Aspects of Software Engineering Conference (TASE), 2026.
+-   ``TASE 2026`` (<span style="color:green">CCF-C</span>) Boli Huang, Tianlin Li, **Ming Hu**, Ziming Zhao, Mingsong Chen, [Learn by Analogy: Distribution-aware Fuzz Testing for DNNs via Cross-Modal Generation](https://link.springer.com/content/pdf/10.1007/978-3-032-30693-7.pdf#page=239). In Proceedings of Theoretical Aspects of Software Engineering Conference (TASE), 223-242, 2026.
 
--   ``ISSTA 2026`` (<span style="color:red">CCF-A</span>) Hao Shen, **Ming Hu\***, Jiaye Li, Xiaofei Xie, and Mingsong Chen\*, [Silence of Commit Messages: An Empirical Study for Vulnerability Commit Message Generation Using Large Language Models](). In Proceedings of SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Accepted, 2026.
+-   ``ISSTA 2026`` (<span style="color:red">CCF-A</span>) Hao Shen, **Ming Hu\***, Jiaye Li, Xiaofei Xie, and Mingsong Chen\*, [Silence of Commit Messages: An Empirical Study for Vulnerability Commit Message Generation Using Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3832299). In Proceedings of SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 4765-4788, 2026.
 
--   ``ACL 2026 Findings`` Wenru Xu, Peixuan Xu, Ziqi Yang, **Ming Hu**, Zihui Wang, Jianzhong Qi, Rongshan Yu, Xiaoliang Fan, and Cheng Wang, [SPIDE: Serial and Parallel Intertwined Speculative Decoding](). In Proceedings of Annual Meeting of the Association for Computational Linguistics (ACL), Accepted, 2026.
+-   ``ACL 2026 Findings`` Wenru Xu, Peixuan Xu, Ziqi Yang, **Ming Hu**, Zihui Wang, Jianzhong Qi, Rongshan Yu, Xiaoliang Fan, and Cheng Wang, [SPIDE: Serial and Parallel Intertwined Speculative Decoding](https://aclanthology.org/2026.findings-acl.1040.pdf). In Proceedings of Annual Meeting of the Association for Computational Linguistics (ACL), 20762-20779, 2026.
 
--   ``CVPR 2026`` (<span style="color:red">CCF-A</span>) Chenyang Li, Wenbing Tang, Yihao Huang, Simon Sinong Zhan, **Ming Hu**, Xiaojun Jia, and Yang Liu, [Shedding Light on VLN Robustness: A Black-box Framework for Indoor Lighting-based Adversarial Attack](). In Proceedings of Computer Vision and Pattern Recognition (CVPR), Accepted, 2026.
+-   ``CVPR 2026`` (<span style="color:red">CCF-A</span>) Chenyang Li, Wenbing Tang, Yihao Huang, Simon Sinong Zhan, **Ming Hu**, Xiaojun Jia, and Yang Liu, [Shedding Light on VLN Robustness: A Black-box Framework for Indoor Lighting-based Adversarial Attack](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Shedding_Light_on_VLN_Robustness_A_Black-box_Framework_for_Indoor_CVPR_2026_paper.pdf). In Proceedings of Computer Vision and Pattern Recognition (CVPR), 1565-1574, 2026.
 
 -   ``TMC`` (<span style="color:red">CCF-A</span>) Yizhou Shi, Qianpiao Ma, Yan Xu, Junlong Zhou, **Ming Hu**, Yunming Liao, and Hongli Xu, [DySTop: Dynamic Staleness Control and Topology Construction for Asynchronous Decentralized Federated Learning](). IEEE Transactions on Mobile Computing (TMC), Early Access, 2026.
 
--   ``TOSEM`` (<span style="color:red">CCF-A</span>) Hao Shen, **Ming Hu\***, Xiaofei Xie, Jiaye Li, and Mingsong Chen\*, [Separate Bombs from Firecrackers: Intention-guided Vulnerability Assessment via LLM](). ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted, 2026.
+-   ``TOSEM`` (<span style="color:red">CCF-A</span>) Hao Shen, **Ming Hu\***, Xiaofei Xie, Jiaye Li, and Mingsong Chen\*, [Separate Bombs from Firecrackers: Intention-guided Vulnerability Assessment via LLM](https://dl.acm.org/doi/pdf/10.1145/3797896). ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted, 2026.
 
--   ``ICSE 2026`` (<span style="color:red">CCF-A</span>) Yike Huang\#, **Ming Hu\#**, Xiaohong Chen, Zhi Jin, and Shuyuan Xiao, [Modeling Like Peeling an Onion: Layerwise Analysis-Driven Automatic Behavioral Model Generation](). In Proceedings of International Conference on Software Engineering (ICSE), Accepted, 2026.
+-   ``ICSE 2026`` (<span style="color:red">CCF-A</span>) Yike Huang\#, **Ming Hu\#**, Xiaohong Chen, Zhi Jin, and Shuyuan Xiao, [Modeling Like Peeling an Onion: Layerwise Analysis-Driven Automatic Behavioral Model Generation](https://dl.acm.org/doi/pdf/10.1145/3744916.3787806). In Proceedings of International Conference on Software Engineering (ICSE), 2786-2797, 2026.
 
--   ``KDD 2026`` (<span style="color:red">CCF-A</span>) Mingsheng Cao, Tianci Chen, **Ming Hu\***, Zhuang Qi, Yangguang Cui, Junlong Zhou, Xiaofei Xie, [Two Heads Are Better Than One: Generalized Cross-Domain Federated Learning via Dual-Prototype](). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Accepted, 2026.
+-   ``KDD 2026`` (<span style="color:red">CCF-A</span>) Mingsheng Cao, Tianci Chen, **Ming Hu\***, Zhuang Qi, Yangguang Cui, Junlong Zhou, Xiaofei Xie, [Two Heads Are Better Than One: Generalized Cross-Domain Federated Learning via Dual-Prototype](https://dl.acm.org/doi/pdf/10.1145/3770854.3780269). In Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 59-70, 2026.
 
--   ``DATE 2026`` (<span style="color:orange">CCF-B</span>) Hao Shen, **Ming Hu\***, Yanxin Yang, Xiaofei Xie, and Mingsong Chen\*, [Enhance Language Model-based Repair for Memory-related Vulnerabilities via Knowledge- and Semantic-guided Analysis](). In Proceedings of Design, Automation and Test in Europe Conference (DATE), Accepted, 2026.
+-   ``DATE 2026`` (<span style="color:orange">CCF-B</span>) Hao Shen, **Ming Hu\***, Yanxin Yang, Xiaofei Xie, and Mingsong Chen\*, [Enhance Language Model-based Repair for Memory-related Vulnerabilities via Knowledge- and Semantic-guided Analysis](https://ieeexplore.ieee.org/abstract/document/11539456/). In Proceedings of Design, Automation and Test in Europe Conference (DATE), 1-7, 2026.
 
--   ``ICDE 2026`` (<span style="color:red">CCF-A</span>) Zhenkai Li, **Ming Hu\***, Chentao Jia, Yining Sun, Zhufeng Lu, Mingyang Yu, Yanxin Yang, Xiaofei Xie, and Mingsong Chen\*, [AdaFedRec: Adaptive Heterogeneous Federated Recommender Systems across Multi-Device Users](). In Proceedings of IEEE International Conference on Data Engineering (ICDE), Accepted, 2026.
+-   ``ICDE 2026`` (<span style="color:red">CCF-A</span>) Zhenkai Li, **Ming Hu\***, Chentao Jia, Yining Sun, Zhufeng Lu, Mingyang Yu, Yanxin Yang, Xiaofei Xie, and Mingsong Chen\*, [AdaFedRec: Adaptive Heterogeneous Federated Recommender Systems across Multi-Device Users](https://ieeexplore.ieee.org/abstract/document/11629257/). In Proceedings of IEEE International Conference on Data Engineering (ICDE), 863-876, 2026.
 
--   ``ICSE 2026`` (<span style="color:red">CCF-A</span>) Zhujun Wu, Xiaohong Chen, Zhi Jin, **Ming Hu**, and Dongming Jin, [Unlocking the Silent Needs: Business-Logic-Driven Iterative Requirements Auto-completion](). In Proceedings of International Conference on Software Engineering (ICSE), Accepted, 2026.
+-   ``ICSE 2026`` (<span style="color:red">CCF-A</span>) Zhujun Wu, Xiaohong Chen, Zhi Jin, **Ming Hu**, and Dongming Jin, [Unlocking the Silent Needs: Business-Logic-Driven Iterative Requirements Auto-completion](https://dl.acm.org/doi/pdf/10.1145/3744916.3773109). In Proceedings of International Conference on Software Engineering (ICSE), 2735-2746, 2026.
 
 ### 2025
 ---
--   ``TC`` (<span style="color:red">CCF-A</span>) Dengke Yan, **Ming Hu\***, Xiaofei Xie, Yanxin Yang, and Mingsong Chen\*. [S^2FL: Toward Efficient and Accurate Heterogeneous Split Federated Learning](https://ieeexplore.ieee.org/abstract/document/11219319/). IEEE Transactions on Computers (TC), 2025, Accepted.
+-   ``TC`` (<span style="color:red">CCF-A</span>) Dengke Yan, **Ming Hu\***, Xiaofei Xie, Yanxin Yang, and Mingsong Chen\*. [S^2FL: Toward Efficient and Accurate Heterogeneous Split Federated Learning](https://ieeexplore.ieee.org/abstract/document/11219319/). IEEE Transactions on Computers (TC), 75(1): 320-334, 2025.
 
--   ``NeurIPS 2025`` (<span style="color:red">CCF-A</span>) Jiahao Wu, **Ming Hu\***, Yanxin Yang, Xiaofei Xie, Zekai Chen, Chenyu Song, and Mingsong Chen\*, [Rising from Ashes: Generalized Federated Learning via Dynamic Parameter Reset](https://openreview.net/pdf?id=QkqQSf1REo). In Proceedings of Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. [CODE](https://github.com/UniString/FedPhoenix)
+-   ``NeurIPS 2025`` (<span style="color:red">CCF-A</span>) Jiahao Wu, **Ming Hu\***, Yanxin Yang, Xiaofei Xie, Zekai Chen, Chenyu Song, and Mingsong Chen\*, [Rising from Ashes: Generalized Federated Learning via Dynamic Parameter Reset](https://openreview.net/pdf?id=QkqQSf1REo). In Proceedings of Annual Conference on Neural Information Processing Systems (NeurIPS), 38: 15502-15528, 2025. [CODE](https://github.com/UniString/FedPhoenix)
 
--   ``ASE 2025 NIER`` Xu Lu, Weisong Sun, Yiran Zhang, **Ming Hu**, Cong Tian, Zhi Jin, and Yang Liu. [Requirements Development and Formalization for Reliable Code Generation: A Multi-Agent Vision](https://arxiv.org/pdf/2508.18675).  In Proceedings of   IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025.
+-   ``ASE 2025 NIER`` Xu Lu, Weisong Sun, Yiran Zhang, **Ming Hu**, Cong Tian, Zhi Jin, and Yang Liu. [Requirements Development and Formalization for Reliable Code Generation: A Multi-Agent Vision](https://arxiv.org/pdf/2508.18675).  In Proceedings of IEEE/ACM International Conference on Automated Software Engineering (ASE), 3932-3937, 2025.
 
--   ``TMC`` (<span style="color:red">CCF-A</span>) Ruixuan Liu, **Ming Hu\***, Zeke Xia, Xiaofei Xie, Jun Xia, Pengyu Zhang, Yihao Huang, and Mingsong Chen\*. [FedGraft: Memory-Aware Heterogeneous Federated Learning via Model Grafting](https://ieeexplore.ieee.org/abstract/document/11088243).  IEEE Transactions on Mobile Computing (TMC), 2025, Accepted.
+-   ``TMC`` (<span style="color:red">CCF-A</span>) Ruixuan Liu, **Ming Hu\***, Zeke Xia, Xiaofei Xie, Jun Xia, Pengyu Zhang, Yihao Huang, and Mingsong Chen\*. [FedGraft: Memory-Aware Heterogeneous Federated Learning via Model Grafting](https://ieeexplore.ieee.org/abstract/document/11088243).  IEEE Transactions on Mobile Computing (TMC), 24(12): 13506-13519, 2025.
 
 -   ``CCS 2025`` (<span style="color:red">CCF-A</span>) Yanxin Yang, **Ming Hu\***, Xiaofei Xie, Yue Cao, Pengyu Zhang, Yihao Huang, and Mingsong Chen\*. [FilterFL: Knowledge Filtering-based Data-Free Backdoor Defense for Federated Learning](https://dl.acm.org/doi/epdf/10.1145/3719027.3744883). In Proceedings of ACM Conference on Computer and Communications Security (CCS), 2025, 3147-3161. [CODE](https://github.com/easywood0204/FilterFL)
 
@@ -172,9 +176,9 @@ In addition, if you are interested in our research or have any questions, please
 
 -   ``ICML 2025`` (<span style="color:red">CCF-A</span>) Yuhang Li, Tong Liu, Yangguang Cui, **Ming Hu**, and Xiaoqiang Li. [One Arrow, Two Hawks: Sharpness-aware Minimization for Federated Learning via Global Model Trajectory](https://openreview.net/pdf?id=80mK2Mqaph). In Proceedings of International Conference on Machine Learning (ICML), 2025.
 
--   ``TOSEM`` (<span style="color:red">CCF-A</span>) Xiaoyu Zhang, Cen Zhang, Tianlin Li, Yihao Huang, Xiaojun Jia, **Ming Hu**, Jie Zhang, Yang Liu, Shiqing Ma, and Chao Shen. [JailGuard: A Universal Detection Framework for Prompt-based Attacks on LLM Systems](https://dl.acm.org/doi/pdf/10.1145/3724393). ACM Transactions on Software Engineering and Methodology (TOSEM), 2025, Accepted.
+-   ``TOSEM`` (<span style="color:red">CCF-A</span>) Xiaoyu Zhang, Cen Zhang, Tianlin Li, Yihao Huang, Xiaojun Jia, **Ming Hu**, Jie Zhang, Yang Liu, Shiqing Ma, and Chao Shen. [JailGuard: A Universal Detection Framework for Prompt-based Attacks on LLM Systems](https://dl.acm.org/doi/pdf/10.1145/3724393). ACM Transactions on Software Engineering and Methodology (TOSEM), 35(1): 1-40, 2025.
 
--   ``DAC 2025`` (<span style="color:red">CCF-A</span>) Dengke Yan, Yanxin Yang, **Ming Hu**, Xin Fu, and Mingsong Chen. [MMDFL: Multi-Model-based Decentralized Federated Learning for Resource-Constrained AIoT Systems](https://ieeexplore.ieee.org/document/11133116). In Proceedings of Design Automation Conference (DAC), 2025, 1-7.
+-   ``DAC 2025`` (<span style="color:red">CCF-A</span>) Dengke Yan, Yanxin Yang, **Ming Hu**, Xin Fu, and Mingsong Chen. [MMDFL: Multi-Model-based Decentralized Federated Learning for Resource-Constrained AIoT Systems](https://ieeexplore.ieee.org/document/11133116). In Proceedings of Design Automation Conference (DAC), 1-7, 2025.
 
 -   ``ICSE 2025`` (<span style="color:red">CCF-A</span>) Qi Guo, Xiaofei Xie, Shangqing Liu, **Ming Hu**, Xiaohong Li, and Lei Bu, [Intention is All You Need: Refining Your Code from Your Intention](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a728/251mHc6ItOM). In Proceedings of International Conference on Software Engineering (ICSE), 1127-1139, 2025.
 
