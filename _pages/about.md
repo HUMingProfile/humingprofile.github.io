@@ -42,7 +42,7 @@ In addition, if you are interested in our research or have any questions, please
 # 🔥 News
 ### 2026:
 - *2026.09* 🎉 One paper got accepted by NeurIPS 2026 (<span style="color:red">CCF-A</span>)!
-- *2024.06* 🎉 Our paper “Clarity Is Not Assumed: Understanding LLM-Based Code Generation under Ambiguous Requirements” won ASE 2026 <span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>!
+- *2026.09* 🎉 Our paper “Clarity Is Not Assumed: Understanding LLM-Based Code Generation under Ambiguous Requirements” won ASE 2026 <span style="color:red">ACM SIGSOFT Distinguished Paper Award</span>!
 - *2026.08* 🎉 One paper got accepted by IoTJ (SCI Q1)!
 - *2026.07* 🎉 One paper got accepted by npj Digital Medicine (SCI Q1, IF 18.2)!
 - *2026.07* 🎉 One paper got accepted by MM 2026 (<span style="color:red">CCF-A</span>)!
